@@ -9,5 +9,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       
-      - name: Print out contents
+      - name: Print out source contents
         run: ls ./
+
+      - name: Print out destination contents
+        run: cd ${{secrets.DEPLOY_PATH}} && ls
