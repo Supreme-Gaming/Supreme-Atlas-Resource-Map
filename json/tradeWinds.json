@@ -1,0 +1,138 @@
+[
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 1536705.38,
+				"worldY": 7094341
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 4950520,
+				"worldY": 7111724
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 8304296.5,
+				"worldY": 7103859
+			}
+		],
+		"PathId": 1,
+		"PathName": "South - East to West",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 1510592.63,
+				"worldY": 2716565.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 4915913.5,
+				"worldY": 2695879.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 8312284.5,
+				"worldY": 2700991
+			}
+		],
+		"PathId": 2,
+		"PathName": "North - East to West",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -274.7409,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 8318800.5,
+				"worldY": 2679794.75
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 93.3664551,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 8292684.5,
+				"worldY": 4897745.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 94.39871,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 8302908,
+				"worldY": 7101669.5
+			}
+		],
+		"PathId": 4,
+		"PathName": "East - North to South",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 132642.281,
+				"rotation": -267.510437,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 1489986.88,
+				"worldY": 2696666
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -272.223938,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 1502806.5,
+				"worldY": 4897746
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 90,
+				"strength": 4,
+				"width": 3000,
+				"worldX": 1492266.63,
+				"worldY": 7098478.5
+			}
+		],
+		"PathId": 6,
+		"PathName": "West - South to North",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	}
+]
