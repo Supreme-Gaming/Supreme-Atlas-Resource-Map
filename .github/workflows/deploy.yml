@@ -1,0 +1,37 @@
+on: 
+  issue_comment: 
+    types: [created]
+
+jobs:
+  check-path:
+    if: ${{ github.event.issue.pull_request && github.event.comment.body == '/deploy'}}
+    name: Validate Deploy Path
+    runs-on: self-hosted
+    environment: Production
+    outputs:
+      valid: ${{steps.valid.outputs.defined}}
+    steps:
+      - id: valid
+        if: "${{ env.VALID != ''}}"
+        run: echo "::set-output name=defined::true"
+        env:
+          VALID: ${{ secrets.DEPLOY_PATH }}
+  publish:
+    name: Publish
+    runs-on: self-hosted
+    needs: [check-path]
+    environment: Production
+    if: needs.check-path.outputs.valid == 'true'
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Prepare target folder
+        run: |
+          if [ -d "${{secrets.DEPLOY_PATH}}" ]; then 
+            echo "Target path exists. Cleaning..." 
+            rm -r ${{secrets.DEPLOY_PATH}}/* 
+          else 
+            echo "Target path does not exist. Do nothing, will be created by following copy step." 
+          fi 
+      - name: Copy repo contents to target folder
+        run: cp -a ./ ${{secrets.DEPLOY_PATH}}
