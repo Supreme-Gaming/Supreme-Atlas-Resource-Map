@@ -27,5 +27,4 @@ jobs:
       - name: Clean target folder
         run: rm -r ${{secrets.DEPLOY_PATH}}
       - name: Copy repo contents to target folder
-        # run: cp -a ./ ${{secrets.DEPLOY_PATH}}
-        run: echo "Will copy to target folder"
+        run: cp -a ./ ${{secrets.DEPLOY_PATH}}
