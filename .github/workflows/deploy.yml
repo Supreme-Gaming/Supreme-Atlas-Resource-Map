@@ -27,9 +27,10 @@ jobs:
       - name: Prepare target folder
         run: >
             if [-d "${{secrets.DEPLOY_PATH}}]"; then
-              echo "Target path exists. Should clear here."
+              echo "Target path exists. Cleaning..."
+              rm -r ${{secrets.DEPLOY_PATH}}/*
             else 
-              echo "Target path does not exist. Should create here."
+              echo "Target path does not exist. Do nothing, will be created by following copy step."
             fi
       - name: Copy repo contents to target folder
         run: cp -a ./ ${{secrets.DEPLOY_PATH}}
