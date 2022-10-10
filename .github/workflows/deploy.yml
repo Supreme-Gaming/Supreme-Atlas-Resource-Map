@@ -2,7 +2,7 @@ on: push
 
 jobs:
   check-path:
-    name: Check deploy path valid
+    name: Validate Deploy Path
     runs-on: self-hosted
     environment: Production
     outputs:
@@ -25,8 +25,7 @@ jobs:
       - name: Print out source contents
         run: ls ./
       - name: Clean target folder
-        # run: rm -r ${{secrets.DEPLOY_PATH}}
-        run: echo "Will clean target folder"
+        run: rm -r ${{secrets.DEPLOY_PATH}}
       - name: Copy repo contents to target folder
         # run: cp -a ./ ${{secrets.DEPLOY_PATH}}
         run: echo "Will copy to target folder"
