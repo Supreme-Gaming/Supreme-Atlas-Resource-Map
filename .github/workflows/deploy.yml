@@ -1,16 +1,32 @@
 on: push
 
 jobs:
+  check-path:
+    name: Check deploy path valid
+    runs-on: self-hosted
+    environment: Production
+    outputs:
+      valid: ${{steps.valid.outputs.defined}}
+    steps:
+      - id: valid
+        if: "${{ env.VALID != ''}}"
+        run: echo "::set-output name=defined::true"
+        env:
+          VALID: ${{ secrets.DEPLOY_PATH }}
   publish:
     name: Publish
     runs-on: self-hosted
+    needs: [check-path]
     environment: Production
+    if: needs.check-path.outputs.valid == 'true'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-      
       - name: Print out source contents
         run: ls ./
-
-      - name: Print out destination contents
-        run: cd ${{secrets.DEPLOY_PATH}} && ls
+      - name: Clean target folder
+        # run: rm -r ${{secrets.DEPLOY_PATH}}
+        run: echo "Will clean target folder"
+      - name: Copy repo contents to target folder
+        # run: cp -a ./ ${{secrets.DEPLOY_PATH}}
+        run: echo "Will copy to target folder"
