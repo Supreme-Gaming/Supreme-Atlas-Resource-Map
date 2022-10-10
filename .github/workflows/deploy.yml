@@ -4,7 +4,7 @@ jobs:
   publish:
     name: Publish
     runs-on: self-hosted
-    
+    environment: Production
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
