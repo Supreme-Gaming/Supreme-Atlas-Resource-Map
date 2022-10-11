@@ -3,6 +3,10 @@ on:
     types: [created]
 
 jobs:
+  context-print:
+    run: echo "$GITHUB_CONTEXT"
+    env:
+      GITHUB_CONTEXT: ${{ toJson(github) }}
   check-path:
     if: ${{ github.event.issue.pull_request && github.event.comment.body == '/deploy'}}
     name: Validate Deploy Path
