@@ -1,7 +1,10 @@
-on: push
+on: 
+  issue_comment: 
+    types: [created]
 
 jobs:
   check-path:
+    # if: ${{ github.event.issue.pull_request }}
     name: Validate Deploy Path
     runs-on: self-hosted
     environment: Production
