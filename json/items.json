@@ -41,6 +41,54 @@
         },
         "Name": "1Tier Monument Framework"
     },
+    "AO Admin Flag": {
+        "ClassName": "Structure_AO_AdminFlag_C",
+        "Icon": "T_AO_AdminFlag_Icon",
+        "Name": "AO Admin Flag"
+    },
+    "AO Billboard": {
+        "ClassName": "Structure_AO_Billboard_C",
+        "Icon": "T_AO_Billboard_Icon",
+        "Ingredients": {
+            "Fibers": 25.0,
+            "Thatch": 30.0,
+            "Wood": 40.0
+        },
+        "Name": "AO Billboard"
+    },
+    "AO Dragon": {
+        "ClassName": "AO_Draco_Character_C",
+        "Name": "AO Dragon"
+    },
+    "AO Merchant": {
+        "ClassName": "PrimalStructure_AO_Merchant_C",
+        "Icon": "T_AO_Merchant_Icon",
+        "Name": "AO Merchant"
+    },
+    "AO Resource Box": {
+        "ClassName": "Structure_AO_ResourceBox_C",
+        "Icon": "Item_CargoShipAttachment_Icon",
+        "Name": "AO Resource Box"
+    },
+    "AO Settlement Flag": {
+        "ClassName": "Structure_AO_SettlementFlag_C",
+        "Icon": "Item_FlagPole_Icon",
+        "Name": "AO Settlement Flag"
+    },
+    "AO Structure": {
+        "ClassName": "Structure_AO_Sign_Wood_C",
+        "Name": "AO Structure"
+    },
+    "ARK Raft": {
+        "ClassName": "Ship_ARK_Raft_C",
+        "Icon": "Raft_Ark_Icon",
+        "Ingredients": {
+            "Fibers": 125.0,
+            "Hide": 60.0,
+            "Wood": 250.0
+        },
+        "Name": "ARK Raft"
+    },
     "Aberrant Helmet Skin": {
         "ClassName": "Skin_Shoppable_C",
         "Ingredients": {
@@ -68,15 +116,13 @@
             }
         }
     },
-    "Accordian: A Mockatoo Once Told Me": {
-        "ClassName": "Ammo_Song_A_Normal_C",
-        "Icon": "HUD_MusicSheet_Colorize_d",
-        "Name": "Accordian: A Mockatoo Once Told Me"
-    },
-    "Accordian: Of Sea and Sails": {
-        "ClassName": "Ammo_Song_B_Normal_C",
-        "Icon": "HUD_MusicSheet_Colorize_d",
-        "Name": "Accordian: Of Sea and Sails"
+    "Acai Seed": {
+        "ClassName": "Consumable_Berry_Acai_Seed_C",
+        "Icon": "AcaiSeed_Icon",
+        "Ingredients": {
+            "Acai": 1.0
+        },
+        "Name": "Acai Seed"
     },
     "Accordion": {
         "ClassName": "Weapon_Music_Accordion_C",
@@ -89,15 +135,25 @@
         },
         "Name": "Accordion"
     },
+    "Accordion: A Mockatoo Once Told Me": {
+        "ClassName": "Ammo_Song_A_Normal_C",
+        "Icon": "HUD_MusicSheet_Colorize_d",
+        "Name": "Accordion: A Mockatoo Once Told Me"
+    },
+    "Accordion: Of Sea and Sails": {
+        "ClassName": "Ammo_Song_B_Normal_C",
+        "Icon": "HUD_MusicSheet_Colorize_d",
+        "Name": "Accordion: Of Sea and Sails"
+    },
     "Accordion: She Heard the Siren's Call": {
         "ClassName": "Ammo_Song_C_Normal_C",
         "Icon": "HUD_MusicSheet_Colorize_d",
         "Name": "Accordion: She Heard the Siren's Call"
     },
-    "Acerolla": {
+    "Acerola": {
         "ClassName": "Consumable_Berry_Acerolla_C",
         "Icon": "Acerola_Icon",
-        "Name": "Acerolla",
+        "Name": "Acerola",
         "SpoilTime": 600.0,
         "Type": "Berry",
         "Weight": 0.07000000029802322,
@@ -113,6 +169,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Acerolla Seed": {
+        "ClassName": "Consumable_Berry_Acerolla_Seed_C",
+        "Icon": "AcerollaSeed_Icon",
+        "Ingredients": {
+            "Acerola": 1.0
+        },
+        "Name": "Acerolla Seed"
     },
     "Advanced Shipyard": {
         "ClassName": "Structure_Shipyard_Advanced_C",
@@ -202,6 +266,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Aloe Cutting": {
+        "ClassName": "Consumable_MedHerb_Aloe_Cutting_C",
+        "Icon": "AloeCutting_Icon",
+        "Ingredients": {
+            "Aloe": 1.0
+        },
+        "Name": "Aloe Cutting"
     },
     "Altar of the Damned": {
         "ClassName": "Structure_DamnedAltar_C",
@@ -308,6 +380,27 @@
         },
         "Name": "Antidote"
     },
+    "Antivenom": {
+        "ClassName": "Consumable_AntiVenom_C",
+        "Icon": "AntiVenom_Icon",
+        "Ingredients": {
+            "Medicinal Herb": 5.0,
+            "Organic Paste": 2.0,
+            "Toxic Compound": 5.0
+        },
+        "Name": "Antivenom"
+    },
+    "Aquatic Tame Ship Hangar": {
+        "ClassName": "Structure_AnimalHangar_Aquatic_Public_C",
+        "Icon": "Item_DinghyDock_Icon",
+        "Ingredients": {
+            "Hide": 20.0,
+            "Metal": 5.0,
+            "Thatch": 20.0,
+            "Wood": 25.0
+        },
+        "Name": "Aquatic Tame Ship Hangar"
+    },
     "Archaeopteryx Egg": {
         "ClassName": "Consumable_Egg_Archa_C",
         "Icon": "Egg_Icon",
@@ -347,6 +440,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Arctic Raspberry Seed": {
+        "ClassName": "Consumable_Berry_ArcticRaspberry_Seed_C",
+        "Icon": "ArcticRaspberrySeed_Icon",
+        "Ingredients": {
+            "Arctic Raspberry": 1.0
+        },
+        "Name": "Arctic Raspberry Seed"
     },
     "Argentavis Egg": {
         "ClassName": "Consumable_Egg_Argent_C",
@@ -477,10 +578,19 @@
         "ClassName": "Resource_Wood_Ash_C",
         "Icon": "Ash_Icon",
         "Ingredients": {
+            "Ash Bundle": 1.0,
             "Gold Coin": 50.0,
             "Wood": 50.0
         },
         "Name": "Ash"
+    },
+    "Ash Bundle": {
+        "ClassName": "Resource_Wood_Ash_Bundle_C",
+        "Icon": "Item_Wood_Ash_Icon",
+        "Ingredients": {
+            "Ash": 10000.0
+        },
+        "Name": "Ash Bundle"
     },
     "Astronomy Studies": {
         "ClassName": "Structure_ModularRoomAstronomy_C",
@@ -539,6 +649,17 @@
             }
         }
     },
+    "Bait Station": {
+        "ClassName": "Structure_BaitStation_C",
+        "Icon": "Item_BaitStation_Icon",
+        "Ingredients": {
+            "Fibers": 35.0,
+            "Metal": 10.0,
+            "Thatch": 40.0,
+            "Wood": 50.0
+        },
+        "Name": "Bait Station"
+    },
     "Ballista Bolt": {
         "ClassName": "Ammo_BallistaArrow_C",
         "Icon": "Item_BallistaArrow_Icon",
@@ -548,6 +669,30 @@
             "Wood": 32.0
         },
         "Name": "Ballista Bolt"
+    },
+    "Ballista Ship Railing": {
+        "ClassName": "Structure_MidShipSideTileBallistaRailingRammingGeneral_C",
+        "Icon": "StandardBallistaRailing",
+        "Ingredients": {
+            "Alloy": 98.0,
+            "Fibers": 250.0,
+            "Stone": 180.0,
+            "Thatch": 225.0,
+            "Wood": 550.0
+        },
+        "Name": "Ballista Ship Railing"
+    },
+    "Ballista Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipSideTileBallistaRailingKrakenGeneral_C",
+        "Icon": "KrakenBallistaRailing",
+        "Ingredients": {
+            "Alloy": 98.0,
+            "Fibers": 250.0,
+            "Stone": 180.0,
+            "Thatch": 225.0,
+            "Wood": 550.0
+        },
+        "Name": "Ballista Ship Railing (Kraken)"
     },
     "Ballista Turret": {
         "ClassName": "Structure_TurretBallista_C",
@@ -596,12 +741,45 @@
     },
     "Bark": {
         "ClassName": "Resource_Thatch_Bark_C",
-        "Icon": "Rushes_Icon",
+        "Icon": "Item_ThatchBark_Icon",
         "Ingredients": {
             "Gold Coin": 50.0,
             "Thatch": 50.0
         },
         "Name": "Bark"
+    },
+    "Barn": {
+        "ClassName": "Structure_StableHouse_C",
+        "Icon": "Barn_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 40.0,
+            "Hide": 80.0,
+            "Keratinoid": 90.0,
+            "Metal": 50.0,
+            "Stone": 240.0,
+            "Wood": 120.0
+        },
+        "Name": "Barn"
+    },
+    "Barracks": {
+        "ClassName": "Structure_Barracks_C",
+        "Icon": "House_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Thatch": 36.0,
+            "Wood": 60.0
+        },
+        "Name": "Barracks"
+    },
+    "Bars Door": {
+        "ClassName": "Structure_Door_Small_Bars_C",
+        "Icon": "Bars_Door_icon",
+        "Ingredients": {
+            "Alloy": 18.0,
+            "Salt": 7.0
+        },
+        "Name": "Bars Door"
     },
     "Basalt": {
         "ClassName": "Resource_Flint_Basalt_C",
@@ -643,9 +821,20 @@
             }
         }
     },
+    "Basil Cutting": {
+        "ClassName": "Consumable_MedHerb_Basil_Cutting_C",
+        "Icon": "BasilCutting_Icon",
+        "Ingredients": {
+            "Basil": 1.0
+        },
+        "Name": "Basil Cutting"
+    },
     "Bean Seed": {
-        "ClassName": "Consumable_Vegetable_Beans_Seed_C",
+        "ClassName": "Consumable_Vegetable_Beans_Seed_MC_C",
         "Icon": "Beans_Seed_Icon",
+        "Ingredients": {
+            "Beans": 1.0
+        },
         "Name": "Bean Seed"
     },
     "Beans": {
@@ -675,9 +864,11 @@
     },
     "Bee Hive": {
         "ClassName": "Structure_BeeHive_C",
+        "Icon": "Beehive_Icon",
         "Ingredients": {
             "Cementing Paste": 1.0,
             "Flint": 1.0,
+            "Honey": 1.0,
             "Metal Ingot": 1.0,
             "Stone": 1.0,
             "Thatch": 4.0,
@@ -689,11 +880,11 @@
         "ClassName": "Consumable_BeefBuns_C",
         "Icon": "Item_JackBuns_Icon",
         "Ingredients": {
-            "Chili": 5.0,
+            "Chili": 2.0,
             "Cooked Meat": 3.0,
             "Cooking Herbs": 3.0,
             "Salt": 1.0,
-            "Wheat or Maize": 10.0
+            "Wheat or Maize": 8.0
         },
         "Name": "Beef Buns",
         "SpoilTime": 36000.0,
@@ -711,9 +902,9 @@
                 "addOverTimeSpeed": 3.0436202645135027e-42
             },
             "VitaminA": {
-                "add": 50.0,
+                "add": 20.0,
                 "addOverTime": true,
-                "addOverTimeSpeed": 360.0
+                "addOverTimeSpeed": 10.0
             }
         }
     },
@@ -738,8 +929,11 @@
         }
     },
     "Beet Seed": {
-        "ClassName": "Consumable_Vegetable_Beet_Seed_C",
+        "ClassName": "Consumable_Vegetable_Beet_Seed_MC_C",
         "Icon": "Beet_Seed_Icon",
+        "Ingredients": {
+            "Beet": 1.0
+        },
         "Name": "Beet Seed"
     },
     "Berry": {
@@ -794,7 +988,7 @@
                 "addOverTimeSpeed": 3.923635700109488e-44
             },
             "VitaminA": {
-                "add": 2.0,
+                "add": 10.0,
                 "addOverTime": true,
                 "addOverTimeSpeed": 6.0
             }
@@ -819,6 +1013,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Bilberry Seed": {
+        "ClassName": "Consumable_Berrt_Bilberry_Seed_C",
+        "Icon": "BilberrySeed_Icon",
+        "Ingredients": {
+            "Bilberry": 1.0
+        },
+        "Name": "Bilberry Seed"
     },
     "Bingleberry": {
         "ClassName": "Consumable_Berry_ARKBase_C",
@@ -903,6 +1105,14 @@
             "Water": 1.0
         },
         "Name": "Blackberry Coloring"
+    },
+    "Blackberry Seed": {
+        "ClassName": "Consumable_Berry_Blackberry_Seed_C",
+        "Icon": "BlackberrySeed_Icon",
+        "Ingredients": {
+            "Blackberry": 1.0
+        },
+        "Name": "Blackberry Seed"
     },
     "Blackcurrant Coloring": {
         "ClassName": "Dye_Blackcurrant_C",
@@ -1099,7 +1309,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -1130,8 +1340,8 @@
         "Ingredients": {
             "Cooked Meat": 3.0,
             "Cooking Herbs": 3.0,
-            "Vegetable": 3.0,
-            "Wheat or Maize": 10.0
+            "Vegetable": 2.0,
+            "Wheat or Maize": 8.0
         },
         "Name": "Bubble N' Squeak",
         "SpoilTime": 36000.0,
@@ -1149,9 +1359,9 @@
                 "addOverTimeSpeed": 3.0436202645135027e-42
             },
             "VitaminA": {
-                "add": 65.0,
+                "add": 20.0,
                 "addOverTime": true,
-                "addOverTimeSpeed": 300.0
+                "addOverTimeSpeed": 10.0
             }
         }
     },
@@ -1173,6 +1383,11 @@
             "Gold Coin": 200.0
         },
         "Name": "Bunny Ears"
+    },
+    "Bunny Egg": {
+        "ClassName": "Structure_EasterEgg_C",
+        "Icon": "EasterEgg_Icon",
+        "Name": "Bunny Egg"
     },
     "Buoy": {
         "ClassName": "Structure_Buoy_C",
@@ -1240,8 +1455,11 @@
         }
     },
     "Cactus Seed": {
-        "ClassName": "Consumable_Vegetable_Cactus_Seed_C",
+        "ClassName": "Consumable_Vegetable_Cactus_Seed_MC_C",
         "Icon": "Cactus_Seed_Icon",
+        "Ingredients": {
+            "Cactus": 1.0
+        },
         "Name": "Cactus Seed"
     },
     "Calcite": {
@@ -1288,6 +1506,38 @@
         },
         "Name": "Canister Shot"
     },
+    "Cannon Ship Railing": {
+        "ClassName": "Structure_MidShipSideTileCannonRailingRammingGeneral_C",
+        "Icon": "StandardRailingCannon",
+        "Ingredients": {
+            "Alloy": 60.0,
+            "Fibers": 70.0,
+            "Hide": 50.0,
+            "Thatch": 100.0,
+            "Wood": 150.0
+        },
+        "Name": "Cannon Ship Railing"
+    },
+    "Cannon Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipSideTileCannonRailingKrakenGeneral_C",
+        "Icon": "KrakenCannonRailing",
+        "Ingredients": {
+            "Alloy": 60.0,
+            "Fibers": 70.0,
+            "Hide": 50.0,
+            "Thatch": 100.0,
+            "Wood": 150.0
+        },
+        "Name": "Cannon Ship Railing (Kraken)"
+    },
+    "Cannon Skin": {
+        "ClassName": "CannonSkin_Base_C",
+        "Icon": "Item_CannonSkin_Base_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Cannon Skin"
+    },
     "Cantaloupe Coloring": {
         "ClassName": "Dye_Cantaloupe_C",
         "Ingredients": {
@@ -1332,6 +1582,25 @@
         "ClassName": "Resource_Keratanoid_Carapace_C",
         "Icon": "Carapace_Icon",
         "Name": "Carapace"
+    },
+    "Caravela": {
+        "ClassName": "Ship_Caravela_C",
+        "Icon": "CaravelaIcon4",
+        "Ingredients": {
+            "Fibers": 232.0,
+            "Metal": 52.0,
+            "Thatch": 390.0,
+            "Wood": 270.0
+        },
+        "Name": "Caravela"
+    },
+    "Caravela (Cheat)": {
+        "ClassName": "Ship_Caravela_Cheat_C",
+        "Icon": "CaravelaIcon4",
+        "Ingredients": {
+            "Wood": 1.0
+        },
+        "Name": "Caravela (Cheat)"
     },
     "Carbine": {
         "ClassName": "WeaponYarkSniperRifle_C",
@@ -1421,9 +1690,38 @@
         }
     },
     "Carrot Seed": {
-        "ClassName": "Consumable_Vegetable_Carrot_Seed_C",
+        "ClassName": "Consumable_Vegetable_Carrot_Seed_MC_C",
         "Icon": "Carrot_Seed_Icon",
+        "Ingredients": {
+            "Carrot": 1.0
+        },
         "Name": "Carrot Seed"
+    },
+    "Catapult Ship Railing": {
+        "ClassName": "Structure_MidShipSideTileCatapultRailingRammingGeneral_C",
+        "Icon": "StandardCatapultRailing",
+        "Ingredients": {
+            "Alloy": 140.0,
+            "Fibers": 50.0,
+            "Hide": 70.0,
+            "Stone": 340.0,
+            "Thatch": 180.0,
+            "Wood": 500.0
+        },
+        "Name": "Catapult Ship Railing"
+    },
+    "Catapult Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipSideTileCatapultRailingKrakenGeneral_C",
+        "Icon": "KrakenCatapultRailing",
+        "Ingredients": {
+            "Alloy": 140.0,
+            "Fibers": 50.0,
+            "Hide": 70.0,
+            "Stone": 340.0,
+            "Thatch": 180.0,
+            "Wood": 500.0
+        },
+        "Name": "Catapult Ship Railing (Kraken)"
     },
     "Catapult Turret": {
         "ClassName": "Structure_TurretCatapult_C",
@@ -1486,6 +1784,14 @@
             }
         }
     },
+    "Celery Seed": {
+        "ClassName": "Consumable_Vegetable_Celery_Seed_C",
+        "Icon": "CelerySeed_Icon",
+        "Ingredients": {
+            "Celery": 1.0
+        },
+        "Name": "Celery Seed"
+    },
     "Celery Soup": {
         "ClassName": "Consumable_CelerySoup_C",
         "Icon": "Item_CelerySoup_Icon",
@@ -1493,7 +1799,7 @@
             "Celery": 3.0,
             "Cooked Fish": 3.0,
             "Salt": 1.0,
-            "Water": 2.0
+            "Water": 1.0
         },
         "Name": "Celery Soup",
         "SpoilTime": 36000.0,
@@ -1511,9 +1817,9 @@
                 "addOverTimeSpeed": 3.0436202645135027e-42
             },
             "VitaminB": {
-                "add": 10.0,
+                "add": 20.0,
                 "addOverTime": true,
-                "addOverTimeSpeed": 300.0
+                "addOverTimeSpeed": 10.0
             }
         }
     },
@@ -1543,6 +1849,17 @@
         },
         "Name": "Chalcedony"
     },
+    "Chalupa": {
+        "ClassName": "Ship_Chalupa_C",
+        "Icon": "ChalupaIcon4",
+        "Ingredients": {
+            "Fibers": 110.0,
+            "Metal": 8.0,
+            "Thatch": 180.0,
+            "Wood": 120.0
+        },
+        "Name": "Chalupa"
+    },
     "Chamomile": {
         "ClassName": "Consumable_MedHerb_Chamomile_C",
         "Icon": "Chamomile_Icon",
@@ -1563,6 +1880,14 @@
             }
         }
     },
+    "Chamomile Seed": {
+        "ClassName": "Consumable_MedHerb_Chamomile_Seed_C",
+        "Icon": "ChamomileSeed_Icon",
+        "Ingredients": {
+            "Chamomile": 1.0
+        },
+        "Name": "Chamomile Seed"
+    },
     "Charcoal": {
         "ClassName": "Resource_Charcoal_C",
         "Icon": "Charcoal_Icon",
@@ -1581,17 +1906,12 @@
     },
     "Chert": {
         "ClassName": "Resource_Flint_Chert_C",
-        "Icon": "Item_Flint_Icon",
+        "Icon": "Item_Chert_Icon",
         "Ingredients": {
             "Flint": 40.0,
             "Gold Coin": 50.0
         },
         "Name": "Chert"
-    },
-    "Chick Pea Seed": {
-        "ClassName": "Consumable_Vegetable_ChickPeas_Seed_C",
-        "Icon": "Chickpeas_Seed_Icon",
-        "Name": "Chick Pea Seed"
     },
     "Chick Peas": {
         "ClassName": "Consumable_Vegetable_ChickPeas_C",
@@ -1624,7 +1944,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -1632,6 +1952,14 @@
                 "addOverTimeSpeed": 4.0
             }
         }
+    },
+    "Chickpea Seed": {
+        "ClassName": "Consumable_Vegetable_ChickPeas_Seed_MC_C",
+        "Icon": "Chickpeas_Seed_Icon",
+        "Ingredients": {
+            "Chick Peas": 1.0
+        },
+        "Name": "Chickpea Seed"
     },
     "Chili": {
         "ClassName": "Consumable_Vegetable_Chilli_C",
@@ -1654,8 +1982,11 @@
         }
     },
     "Chili Seed": {
-        "ClassName": "Consumable_Vegetable_Chilli_Seed_C",
+        "ClassName": "Consumable_Vegetable_Chilli_Seed_MC_C",
         "Icon": "Chili_Seed_Icon",
+        "Ingredients": {
+            "Chili": 1.0
+        },
         "Name": "Chili Seed"
     },
     "Chitin": {
@@ -1672,9 +2003,7 @@
         "ClassName": "Structure_Furniture_CTree_C",
         "Icon": "ChristmasTree_Icon",
         "Ingredients": {
-            "Fibers": 200.0,
-            "Thatch": 250.0,
-            "Wood": 250.0
+            "Gold Coin": 100.0
         },
         "Name": "Christmas Tree"
     },
@@ -1698,6 +2027,14 @@
             }
         }
     },
+    "Cilantro Cutting": {
+        "ClassName": "Consumable_Herb_Cilantro_Cutting_C",
+        "Icon": "CilantroCutting_Icon",
+        "Ingredients": {
+            "Cilantro": 1.0
+        },
+        "Name": "Cilantro Cutting"
+    },
     "Citronal": {
         "ClassName": "Consumable_Veggie_Citronal_C",
         "Icon": "Citronal_Icon",
@@ -1717,6 +2054,26 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "City Bar": {
+        "ClassName": "Structure_City_Bar_C",
+        "Icon": "House_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Thatch": 36.0,
+            "Wood": 60.0
+        },
+        "Name": "City Bar"
+    },
+    "City Restaurant": {
+        "ClassName": "Structure_City_Restaurant_C",
+        "Icon": "House_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Thatch": 36.0,
+            "Wood": 60.0
+        },
+        "Name": "City Restaurant"
     },
     "Claim Test Wooden Billboard": {
         "ClassName": "Structure_ClaimTestWoodSign_Large_C",
@@ -1904,8 +2261,8 @@
         "Name": "Cloth Shirt"
     },
     "Coal": {
-        "ClassName": "Resource_Coal_BASE_C",
-        "Icon": "Item_Coal_Icon",
+        "ClassName": "Resource_Coal_C",
+        "Icon": "Coal_Icon",
         "Name": "Coal"
     },
     "Cobalt": {
@@ -1927,6 +2284,26 @@
         },
         "Name": "Cobalt Ingot"
     },
+    "Cobra Egg": {
+        "ClassName": "Consumable_Egg_Cobra_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Cobra Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Cocoa": {
         "ClassName": "Consumable_Vegetable_Cocoa_C",
         "Icon": "Cocoa_Icon",
@@ -1947,6 +2324,14 @@
             }
         }
     },
+    "Cocoa Bean": {
+        "ClassName": "Consumable_Vegetable_Cocoa_Bean_C",
+        "Icon": "CocoaBean_Icon",
+        "Ingredients": {
+            "Cocoa": 1.0
+        },
+        "Name": "Cocoa Bean"
+    },
     "Coconut": {
         "ClassName": "Consumable_Vegetable_Coconut_C",
         "Icon": "Coconut_Icon",
@@ -1964,6 +2349,39 @@
                 "add": 0.0,
                 "addOverTime": false,
                 "addOverTimeSpeed": 1.7376100957627732e-43
+            }
+        }
+    },
+    "Coconut Seed": {
+        "ClassName": "Consumable_Vegetable_Coconut_Seed_C",
+        "Icon": "CoconutSeed_Icon",
+        "Ingredients": {
+            "Coconut": 1.0
+        },
+        "Name": "Coconut Seed"
+    },
+    "Cod": {
+        "ClassName": "Consumable_Meat_Fish_Cod_C",
+        "Icon": "FishHead_Icon",
+        "Name": "Cod",
+        "SpoilTime": 600.0,
+        "Type": "Meat",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 10.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 5.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 0.0
+            },
+            "Oxygen": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
             }
         }
     },
@@ -2020,8 +2438,11 @@
         }
     },
     "Coffee Seed": {
-        "ClassName": "Consumable_Vegetable_Coffee_Seed_C",
+        "ClassName": "Consumable_Vegetable_Coffee_Seed_MC_C",
         "Icon": "CoffeeSeed",
+        "Ingredients": {
+            "Coffee Bean": 1.0
+        },
         "Name": "Coffee Seed"
     },
     "Cog": {
@@ -2140,6 +2561,22 @@
             }
         }
     },
+    "Cooked Turkey Cannon Skin": {
+        "ClassName": "CannonSkin_CookedTurkey_C",
+        "Icon": "Item_CannonSkin_CookedTurkey_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Cooked Turkey Cannon Skin"
+    },
+    "Cooked Turkey Decoration": {
+        "ClassName": "Structure_CookedTurkeyDecoration_C",
+        "Icon": "ICON_CookedTurkey",
+        "Ingredients": {
+            "Gold Coin": 50.0
+        },
+        "Name": "Cooked Turkey Decoration"
+    },
     "Cooking Herbs": {
         "ClassName": "Consumable_Herb_BASE_C",
         "Icon": "Rosemary_Icon",
@@ -2222,6 +2659,26 @@
         },
         "Name": "Cotton"
     },
+    "Crab Egg": {
+        "ClassName": "Consumable_Egg_Crab_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Crab Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Crab Platform Saddle": {
         "ClassName": "Armor_CrabSaddle_Platform_C",
         "Icon": "Crab_Platform_Saddle_Icon",
@@ -2246,7 +2703,7 @@
         "ClassName": "Consumable_CremeBrulee_C",
         "Icon": "Item_Cremebrulee_Icon",
         "Ingredients": {
-            "Egg!": 5.0,
+            "Egg": 3.0,
             "Elderberry": 3.0,
             "Milk": 1.0,
             "Salt": 1.0,
@@ -2274,6 +2731,14 @@
             }
         }
     },
+    "Crew Member": {
+        "ClassName": "Primaltem_RecruitCityCrew_C",
+        "Icon": "NPC_Recruit_Icon",
+        "Ingredients": {
+            "Gold Coin": 10000.0
+        },
+        "Name": "Crew Member"
+    },
     "Crew Resources Silo": {
         "ClassName": "Structure_CrewResourcesSilo_C",
         "Icon": "Item_CrewResourcesSilo_Icon",
@@ -2284,6 +2749,26 @@
             "Wood": 420.0
         },
         "Name": "Crew Resources Silo"
+    },
+    "Crocodile Egg": {
+        "ClassName": "Consumable_Egg_Crocodile_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Crocodile Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
     },
     "Crop Plot": {
         "ClassName": "StructureBase_CropPlot_C",
@@ -2334,7 +2819,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -2345,7 +2830,7 @@
     },
     "Crude Oil": {
         "ClassName": "Resource_Oil_Crude_C",
-        "Icon": "Item_Oil_Icon",
+        "Icon": "CrudeOil_Icon",
         "Ingredients": {
             "Gold Coin": 50.0,
             "Oil": 30.0
@@ -2445,7 +2930,7 @@
             "VitaminB": {
                 "add": 2.0,
                 "addOverTime": true,
-                "addOverTimeSpeed": 100.0
+                "addOverTimeSpeed": 10.0
             }
         }
     },
@@ -2526,6 +3011,41 @@
         },
         "Name": "Custom Flag"
     },
+    "Custom Large Shipyard": {
+        "ClassName": "Structure_Shipyard_Large_CS_C",
+        "Icon": "Item_CustomLargeShipyard_Icon_CS",
+        "Ingredients": {
+            "Fibers": 1000.0,
+            "Stone": 500.0,
+            "Thatch": 2000.0,
+            "Wood": 4000.0
+        },
+        "Name": "Custom Large Shipyard"
+    },
+    "Custom Shipyards Converter": {
+        "ClassName": "Structure_CustomShipyardConverter_CS_C",
+        "Icon": "CustomShipyardConverter_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Flint": 5.0,
+            "Hide": 65.0,
+            "Metal": 20.0,
+            "Stone": 125.0,
+            "Wood": 20.0
+        },
+        "Name": "Custom Shipyards Converter"
+    },
+    "Custom Small Shipyard": {
+        "ClassName": "Structure_Shipyard_Small_CS_C",
+        "Icon": "Item_CustomSmallShipyard_Icon_CS",
+        "Ingredients": {
+            "Fibers": 240.0,
+            "Stone": 105.0,
+            "Thatch": 420.0,
+            "Wood": 840.0
+        },
+        "Name": "Custom Small Shipyard"
+    },
     "Cyan Coloring": {
         "ClassName": "Dye_Cyan_C",
         "Ingredients": {
@@ -2533,6 +3053,11 @@
             "Water": 1.0
         },
         "Name": "Cyan Coloring"
+    },
+    "Cyclops Eye": {
+        "ClassName": "Resource_CyclopsEye_TO_C",
+        "Icon": "CyclopsEye_Icon_TO",
+        "Name": "Cyclops Eye"
     },
     "Cyclops Tame Token": {
         "ClassName": "TameToken_Cyclops_C",
@@ -2551,7 +3076,7 @@
             "Mint": 5.0,
             "Saps": 5.0,
             "Water": 1.0,
-            "Wheat or Maize": 5.0
+            "Wheat or Maize": 2.0
         },
         "Name": "Dark Draught",
         "SpoilTime": 0.0,
@@ -2742,6 +3267,16 @@
         },
         "Name": "Dinghy Hangar Ship Railing (Kraken)"
     },
+    "Dinghy Sail": {
+        "ClassName": "Ship_Dinghy_Sail_C",
+        "Icon": "dingblackicon3",
+        "Ingredients": {
+            "Fibers": 90.0,
+            "Hide": 40.0,
+            "Wood": 80.0
+        },
+        "Name": "Dinghy Sail"
+    },
     "Dinghy Ship Hangar": {
         "ClassName": "Structure_ShipHangar_Dinghy_C",
         "Icon": "Item_DinghyDock_Icon",
@@ -2752,6 +3287,17 @@
             "Wood": 210.0
         },
         "Name": "Dinghy Ship Hangar"
+    },
+    "Dinghy Ship Hangar Caravela": {
+        "ClassName": "Structure_ShipHangar_Caravela_Base_C",
+        "Icon": "Item_DinghyDockCaravela_Icon2",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Hide": 15.0,
+            "Metal": 40.0,
+            "Wood": 175.0
+        },
+        "Name": "Dinghy Ship Hangar Caravela"
     },
     "Diving Attachment": {
         "ClassName": "Structure_DivingAttachment_C",
@@ -2820,15 +3366,15 @@
         "ClassName": "Consumable_DragonsTongue_C",
         "Icon": "Item_DragonsTongueDelight_Icon",
         "Ingredients": {
-            "Beet": 5.0,
+            "Beet": 3.0,
             "Berry": 10.0,
-            "Chili": 5.0,
+            "Chili": 3.0,
             "Cooking Herbs": 20.0,
             "Lime": 5.0,
             "Marrow": 1.0,
             "Saps": 10.0,
             "Water": 1.0,
-            "Wheat or Maize": 20.0
+            "Wheat or Maize": 10.0
         },
         "Name": "Dragon's Tongue Delight",
         "SpoilTime": 0.0,
@@ -2886,6 +3432,16 @@
             }
         }
     },
+    "Drydock Lever": {
+        "ClassName": "Structure_DrydockLever_CS_C",
+        "Icon": "DrydockLever_Icon_CS",
+        "Ingredients": {
+            "Keratinoid": 26.0,
+            "Metal": 16.0,
+            "Wood": 46.0
+        },
+        "Name": "Drydock Lever"
+    },
     "EXP Melon": {
         "ClassName": "Consumable_Fruit_EXPMelon_C",
         "Icon": "EXPMELON",
@@ -2931,6 +3487,14 @@
             }
         }
     },
+    "Easter Egg Cannon Skin": {
+        "ClassName": "CannonSkin_EasterEgg_C",
+        "Icon": "Item_Cannonskin_EasterEgg_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Easter Egg Cannon Skin"
+    },
     "Edible Greens": {
         "ClassName": "Consumable_Vegetable_EdibleGreens_C",
         "Icon": "EdibleGreens_Icon",
@@ -2952,14 +3516,17 @@
         }
     },
     "Edible Greens Seed": {
-        "ClassName": "Consumable_Vegetable_EdibleGreens_Seed_C",
+        "ClassName": "Consumable_Vegetable_EdibleGreens_Seed_MC_C",
         "Icon": "EdibleGreens_Seed_Icon",
+        "Ingredients": {
+            "Edible Greens": 1.0
+        },
         "Name": "Edible Greens Seed"
     },
-    "Egg!": {
+    "Egg": {
         "ClassName": "Consumable_Egg_C",
         "Icon": "Egg_Icon",
-        "Name": "Egg!",
+        "Name": "Egg",
         "SpoilTime": 691200.0,
         "Type": "",
         "Weight": 4.199999809265137,
@@ -2967,7 +3534,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -2995,6 +3562,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Elderberry Seed": {
+        "ClassName": "Consumable_Berry_Elderberry_Seed_C",
+        "Icon": "ElderberrySeed_Icon",
+        "Ingredients": {
+            "Elderberry": 1.0
+        },
+        "Name": "Elderberry Seed"
     },
     "Electrical Cable Intersection": {
         "ClassName": "Structure_PowerCableIntersection_C",
@@ -3196,7 +3771,7 @@
         }
     },
     "Fertilized Chicken Egg": {
-        "ClassName": "Consumable_Egg_Chicken_Fertilized_C",
+        "ClassName": "Consumable_Egg_Chicken_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Chicken Egg",
         "SpoilTime": 691200.0,
@@ -3206,7 +3781,47 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
+    "Fertilized Cobra Egg": {
+        "ClassName": "Consumable_Egg_Cobra_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Cobra Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
+    "Fertilized Crab Egg": {
+        "ClassName": "Consumable_Egg_Crab_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Crab Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3216,17 +3831,17 @@
         }
     },
     "Fertilized Crocodile Egg": {
-        "ClassName": "Consumable_Egg_Crocodile_Fertilized_C",
+        "ClassName": "Consumable_Egg_Crocodile_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Crocodile Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 0.699999988079071,
+        "Weight": 1.399999976158142,
         "stats": {
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3236,7 +3851,7 @@
         }
     },
     "Fertilized Crow Egg": {
-        "ClassName": "Consumable_Egg_Crow_Fertilized_C",
+        "ClassName": "Consumable_Egg_Crow_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Crow Egg",
         "SpoilTime": 691200.0,
@@ -3246,7 +3861,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3336,7 +3951,7 @@
         }
     },
     "Fertilized Grand Tortugar Egg": {
-        "ClassName": "Consumable_Egg_CarrierTurtle_Fertilized_C",
+        "ClassName": "Consumable_Egg_CarrierTurtle_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Grand Tortugar Egg",
         "SpoilTime": 691200.0,
@@ -3346,7 +3961,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3375,8 +3990,28 @@
             }
         }
     },
+    "Fertilized Leatherwing Egg": {
+        "ClassName": "Consumable_Egg_Leatherwing_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Leatherwing Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Ostrich Egg": {
-        "ClassName": "Consumable_Egg_Ostrich_Fertilized_C",
+        "ClassName": "Consumable_Egg_Ostrich_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Ostrich Egg",
         "SpoilTime": 691200.0,
@@ -3386,7 +4021,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3416,7 +4051,7 @@
         }
     },
     "Fertilized Parrot Egg": {
-        "ClassName": "Consumable_Egg_Parrot_Fertilized_C",
+        "ClassName": "Consumable_Egg_Parrot_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Parrot Egg",
         "SpoilTime": 691200.0,
@@ -3426,7 +4061,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3456,7 +4091,7 @@
         }
     },
     "Fertilized Penguin Egg": {
-        "ClassName": "Consumable_Egg_Penguin_Fertilized_C",
+        "ClassName": "Consumable_Egg_Penguin_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Penguin Egg",
         "SpoilTime": 691200.0,
@@ -3466,7 +4101,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3495,8 +4130,28 @@
             }
         }
     },
+    "Fertilized Rattlesnake Egg": {
+        "ClassName": "Consumable_Egg_Rattlesnake_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Rattlesnake Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Razortooth Egg": {
-        "ClassName": "Consumable_Egg_Razortooth_Fertilized_C",
+        "ClassName": "Consumable_Egg_Razortooth_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Razortooth Egg",
         "SpoilTime": 691200.0,
@@ -3506,7 +4161,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3535,8 +4190,28 @@
             }
         }
     },
+    "Fertilized Scorpion Egg": {
+        "ClassName": "Consumable_Egg_Scorpion_Fertilized_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Fertilized Scorpion Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Fertilized Seagull Egg": {
-        "ClassName": "Consumable_Egg_Seagull_Fertilized_C",
+        "ClassName": "Consumable_Egg_Seagull_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Seagull Egg",
         "SpoilTime": 691200.0,
@@ -3546,7 +4221,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3556,7 +4231,7 @@
         }
     },
     "Fertilized Shieldhorn Egg": {
-        "ClassName": "Consumable_Egg_Shieldhorn_Fertilized_C",
+        "ClassName": "Consumable_Egg_Shieldhorn_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Shieldhorn Egg",
         "SpoilTime": 691200.0,
@@ -3566,7 +4241,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3576,7 +4251,7 @@
         }
     },
     "Fertilized Spider Egg": {
-        "ClassName": "Consumable_Egg_Spider_Fertilized_C",
+        "ClassName": "Consumable_Egg_Spider_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Spider Egg",
         "SpoilTime": 691200.0,
@@ -3586,7 +4261,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3616,12 +4291,12 @@
         }
     },
     "Fertilized Turtle Egg": {
-        "ClassName": "Consumable_Egg_Turtle_Fertilized_C",
+        "ClassName": "Consumable_Egg_Turtle_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Turtle Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 2.0999999046325684,
+        "Weight": 0.699999988079071,
         "stats": {
             "Food": {
                 "add": 20.0,
@@ -3631,7 +4306,12 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 0.0
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
     },
@@ -3656,7 +4336,7 @@
         }
     },
     "Fertilized Vulture Egg": {
-        "ClassName": "Consumable_Egg_Vulture_Fertilized_C",
+        "ClassName": "Consumable_Egg_Vulture_Fertilized_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Fertilized Vulture Egg",
         "SpoilTime": 691200.0,
@@ -3666,7 +4346,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -3721,7 +4401,7 @@
     },
     "Fibers": {
         "ClassName": "Resource_Fibers_BASE_C",
-        "Icon": "Cotton_Icon",
+        "Icon": "Item_Fiber_Icon",
         "Name": "Fibers"
     },
     "Figure Head": {
@@ -3776,8 +4456,8 @@
             "Cooked Fish": 5.0,
             "Pepper": 1.0,
             "Salt": 5.0,
-            "Vegetable": 5.0,
-            "Wheat or Maize": 10.0
+            "Vegetable": 3.0,
+            "Wheat or Maize": 5.0
         },
         "Name": "Fish 'n Chips",
         "SpoilTime": 36000.0,
@@ -3946,6 +4626,17 @@
             "Wood": 22.0
         },
         "Name": "Flintlock"
+    },
+    "Floating Operating Base": {
+        "ClassName": "Structure_FloatingOperatingBase_C",
+        "Icon": "FOB_Icon",
+        "Ingredients": {
+            "Fibers": 10000.0,
+            "Gold Coin": 10000.0,
+            "Metal": 15000.0,
+            "Wood": 35000.0
+        },
+        "Name": "Floating Operating Base"
     },
     "Food Larder": {
         "ClassName": "Structure_MessTable_C",
@@ -4202,6 +4893,25 @@
             }
         }
     },
+    "Garden Bag": {
+        "ClassName": "Structure_GardenBag_C",
+        "Icon": "GardenBag_Icon",
+        "Ingredients": {
+            "Fibers": 100.0,
+            "Thatch": 50.0
+        },
+        "Name": "Garden Bag"
+    },
+    "Garden Table": {
+        "ClassName": "Structure_GardenTable_C",
+        "Icon": "GardenTable_Icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 20.0,
+            "Wood": 60.0
+        },
+        "Name": "Garden Table"
+    },
     "Garlic": {
         "ClassName": "Consumable_Herb_Garlic_C",
         "Icon": "Garlic",
@@ -4221,6 +4931,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Garlic Clove": {
+        "ClassName": "Consumable_Herb_Garlic_Clove_C",
+        "Icon": "GarlicClove_Icon",
+        "Ingredients": {
+            "Garlic": 1.0
+        },
+        "Name": "Garlic Clove"
     },
     "Garnet": {
         "ClassName": "Resource_Gem_Garnet_C",
@@ -4396,6 +5114,18 @@
             }
         }
     },
+    "Glass Door (Preview Test)": {
+        "ClassName": "Structure_Door_Glass_C",
+        "Icon": "Large_Doors_Glass_icon",
+        "Ingredients": {
+            "Crystal": 50.0,
+            "Fibers": 10.0,
+            "Metal": 15.0,
+            "Thatch": 5.0,
+            "Wood": 25.0
+        },
+        "Name": "Glass Door (Preview Test)"
+    },
     "Glider Suit": {
         "ClassName": "Armor_Glider_C",
         "Icon": "Item_GliderWings_Icon",
@@ -4419,6 +5149,14 @@
         },
         "Name": "Gold Coloring"
     },
+    "Gold Dragon Cannon Skin": {
+        "ClassName": "CannonSkin_GoldDragon_C",
+        "Icon": "Item_CannonSkin_GoldDragon_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Gold Dragon Cannon Skin"
+    },
     "Gold Figure Head": {
         "ClassName": "StructureBP_FigureHead_Gold_C",
         "Icon": "Item_FigureHeadMetalGold_Icon",
@@ -4426,6 +5164,14 @@
             "Gold Coin": 800.0
         },
         "Name": "Gold Figure Head"
+    },
+    "Gold Rabbit Statue": {
+        "ClassName": "Structure_GoldRabbitStatue_C",
+        "Icon": "Item_GoldRabbitStatue_Icon",
+        "Ingredients": {
+            "Gold Coin": 50.0
+        },
+        "Name": "Gold Rabbit Statue"
     },
     "Gold Stuffed Bear": {
         "ClassName": "Structure_GoldStuffedBear_C",
@@ -4442,6 +5188,14 @@
             "Gold Coin": 50.0
         },
         "Name": "Gold Tiger Statue"
+    },
+    "Gold Turkey Statue": {
+        "ClassName": "Structure_GoldTurkeyStatue_C",
+        "Icon": "ICON_GoldenTurkey",
+        "Ingredients": {
+            "Gold Coin": 50.0
+        },
+        "Name": "Gold Turkey Statue"
     },
     "Golden Hesperornis Egg": {
         "ClassName": "Consumable_Egg_Hesperonis_Golden_C",
@@ -4463,6 +5217,11 @@
             }
         }
     },
+    "Gorgon Hair": {
+        "ClassName": "Resource_GorgonHair_TO_C",
+        "Icon": "GorgonHair_Icon_TO",
+        "Name": "Gorgon Hair"
+    },
     "Grand Tortugar Egg": {
         "ClassName": "Consumable_Egg_CarrierTurtle_C",
         "Icon": "Egg_Icon",
@@ -4474,7 +5233,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -4559,8 +5318,7 @@
         "ClassName": "Structure_Gravestone_C",
         "Icon": "Icon_Gravestone",
         "Ingredients": {
-            "Stone": 65.0,
-            "Wood": 15.0
+            "Gold Coin": 50.0
         },
         "Name": "Gravestone"
     },
@@ -4588,6 +5346,29 @@
         },
         "Name": "Great Temple"
     },
+    "Green Ale": {
+        "ClassName": "Consumable_GreenAle_C",
+        "Icon": "ICON_GreenAle",
+        "Ingredients": {
+            "Gold Coin": 10.0
+        },
+        "Name": "Green Ale",
+        "SpoilTime": 0.0,
+        "Type": "Alcohol Based",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Stamina": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 3.923635700109488e-44
+            },
+            "VitaminB": {
+                "add": 2.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 6.0
+            }
+        }
+    },
     "Green Algae": {
         "ClassName": "Consumable_Herb_GreenAlgae_C",
         "Icon": "Algae_Icon",
@@ -4607,6 +5388,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Green Algae Cutting": {
+        "ClassName": "Consumable_Herb_GreenAlgae_Cutting_C",
+        "Icon": "GreenAlgaeCutting_Icon",
+        "Ingredients": {
+            "Green Algae": 1.0
+        },
+        "Name": "Green Algae Cutting"
     },
     "Green Coloring": {
         "ClassName": "Dye_Green_C",
@@ -4797,6 +5586,14 @@
         "Icon": "ICON_Heart",
         "Name": "Heart"
     },
+    "Heart Cannon Skin": {
+        "ClassName": "CannonSkin_Heart_C",
+        "Icon": "Item_CannonSkin_Heart_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Heart Cannon Skin"
+    },
     "Heavy Atlantean Chestplate Skin": {
         "ClassName": "Skin_HeavyAtlantean_Shirt_C",
         "Icon": "Item_AtlanteanHeavyShirt_Icon",
@@ -4936,6 +5733,14 @@
             "Gold Coin": 50.0
         },
         "Name": "Hemp"
+    },
+    "Hemp Seed": {
+        "ClassName": "Consumable_Fiber_Hemp_Seed_C",
+        "Icon": "HempSeeds_Icon",
+        "Ingredients": {
+            "Hemp": 1.0
+        },
+        "Name": "Hemp Seed"
     },
     "Herkimer": {
         "ClassName": "Resource_Crystal_Herkimer_C",
@@ -5140,9 +5945,7 @@
         "ClassName": "Structure_StorageBox_Present_C",
         "Icon": "Present2_Icon",
         "Ingredients": {
-            "Hide": 15.0,
-            "Thatch": 40.0,
-            "Wood": 44.0
+            "Gold Coin": 100.0
         },
         "Name": "Holiday Gift"
     },
@@ -5150,9 +5953,7 @@
         "ClassName": "Furniture_Lights_C",
         "Icon": "StringLightsIcon",
         "Ingredients": {
-            "Metal": 1.0,
-            "Thatch": 10.0,
-            "Wood": 20.0
+            "Gold Coin": 100.0
         },
         "Name": "Holiday Lights"
     },
@@ -5575,18 +6376,14 @@
         "Name": "Industrial Wonder Generator"
     },
     "Industrial Wonder Stage 1": {
-        "ClassName": "Structure_Monument_ThirdTier_IndustrialWonder_Monument_C",
-        "Icon": "TempleFoundation_Icon",
+        "ClassName": "Structure_Monument_ThirdTier_IndustrialWonder_Stage1_C",
+        "Icon": "ICON_IndMon_T3_P1",
         "Ingredients": {
             "Cedar Bundle": 50.0,
             "Crystal": 500.0,
-            "Cursed Bone Chips": 1500.0,
-            "Cursed Wood": 1500.0,
             "Orichalcum": 1000.0,
             "Pure Sulfur": 1000.0,
-            "Slate Block": 50.0,
-            "Stone": 4000.0,
-            "Wood": 2000.0
+            "Slate Block": 50.0
         },
         "Name": "Industrial Wonder Stage 1"
     },
@@ -5754,7 +6551,7 @@
         "ClassName": "Resource_Wood_Ironwood_C",
         "Icon": "Ironwood_Icon",
         "Ingredients": {
-            "Gold Coin": 150.0,
+            "Gold Coin": 50.0,
             "Ironwood Bundle": 1.0,
             "Wood": 50.0
         },
@@ -5772,17 +6569,33 @@
         "ClassName": "HalloweenGeode_C",
         "Icon": "JackDiscountUnlocked_Icon",
         "Ingredients": {
-            "Fibers": 50.0
+            "Gold Coin": 50.0
         },
         "Name": "Jack O' Lantern"
     },
-    "Jack O' Lantern Helment Skin": {
+    "Jack O' Lantern Cannon Skin": {
+        "ClassName": "CannonSkin_JackOLantern_C",
+        "Icon": "Item_CannonSkin_JackOLantern_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Jack O' Lantern Cannon Skin"
+    },
+    "Jack O' Lantern Helmet Skin": {
         "ClassName": "Skin_Holiday_JackOLantern_C",
         "Icon": "ICON_Jacklantern",
         "Ingredients": {
             "Gold Coin": 200.0
         },
-        "Name": "Jack O' Lantern Helment"
+        "Name": "Jack O' Lantern Helmet"
+    },
+    "Jade Rabbit Statue": {
+        "ClassName": "Structure_JadeRabbitStatue_C",
+        "Icon": "Item_JadeRabbitStatue_Icon",
+        "Ingredients": {
+            "Gold Coin": 50.0
+        },
+        "Name": "Jade Rabbit Statue"
     },
     "Jade Tiger Statue": {
         "ClassName": "Structure_JadeTigerStatue_C",
@@ -6348,7 +7161,7 @@
         "Name": "Lamppost"
     },
     "Lantern": {
-        "ClassName": "Lantern_C",
+        "ClassName": "Lantern_Test_C",
         "Icon": "Item_BeltOilLantern_Icon",
         "Ingredients": {
             "Crystal": 8.0,
@@ -6403,6 +7216,30 @@
             "Metal": 14.0
         },
         "Name": "Large Cannon Ball"
+    },
+    "Large Cannon Ship Railing": {
+        "ClassName": "Structure_MidShipSideTileLargeCannonRailingRammingGeneral_C",
+        "Icon": "StandardLargeCannonRailing",
+        "Ingredients": {
+            "Alloy": 48.0,
+            "Fibers": 75.0,
+            "Hide": 35.0,
+            "Thatch": 85.0,
+            "Wood": 180.0
+        },
+        "Name": "Large Cannon Ship Railing"
+    },
+    "Large Cannon Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipSideTileLargeCannonRailingKrakenGeneral_C",
+        "Icon": "KrakenLargeCannonRailing",
+        "Ingredients": {
+            "Alloy": 48.0,
+            "Fibers": 75.0,
+            "Hide": 35.0,
+            "Thatch": 85.0,
+            "Wood": 180.0
+        },
+        "Name": "Large Cannon Ship Railing (Kraken)"
     },
     "Large Creature Feces": {
         "ClassName": "Consumable_DinoPoopLarge_C",
@@ -6707,6 +7544,26 @@
         "Icon": "Leather_Icon",
         "Name": "Leather"
     },
+    "Leatherwing Egg": {
+        "ClassName": "Consumable_Egg_Leatherwing_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Leatherwing Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 1.399999976158142,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Leech Blood": {
         "ClassName": "Resource_LeechBlood_C",
         "Icon": "LeechBlood_Icon",
@@ -6764,6 +7621,14 @@
             }
         }
     },
+    "Licorice Seed": {
+        "ClassName": "Consumable_MedHerb_Licorice_Seed_C",
+        "Icon": "LicoriceSeed_Icon",
+        "Ingredients": {
+            "Licorice": 1.0
+        },
+        "Name": "Licorice Seed"
+    },
     "Lieutenant Command Podium": {
         "ClassName": "Structure_Ship_LtOrdersSeat_C",
         "Icon": "Item_LieutenantPodium_Icon",
@@ -6803,26 +7668,6 @@
         },
         "Name": "Lignite"
     },
-    "Lignonberry": {
-        "ClassName": "Consumable_Berry_Lingonberry_C",
-        "Icon": "Lingonberry_Icon",
-        "Name": "Lignonberry",
-        "SpoilTime": 600.0,
-        "Type": "Berry",
-        "Weight": 0.07000000029802322,
-        "stats": {
-            "Food": {
-                "add": 1.5,
-                "addOverTime": true,
-                "addOverTimeSpeed": 3.0
-            },
-            "Health": {
-                "add": 0.0,
-                "addOverTime": false,
-                "addOverTimeSpeed": 0.0
-            }
-        }
-    },
     "Lime": {
         "ClassName": "Consumable_Fruit_Lime_C",
         "Icon": "Lime_Icon",
@@ -6843,6 +7688,14 @@
             }
         }
     },
+    "Lime Seed": {
+        "ClassName": "Consumable_Fruit_Lime_Seed_C",
+        "Icon": "LimeSeed_Icon",
+        "Ingredients": {
+            "Lime": 1.0
+        },
+        "Name": "Lime Seed"
+    },
     "Limestone": {
         "ClassName": "Resource_Stone_Limestone_C",
         "Icon": "Limestone_Icon",
@@ -6860,6 +7713,34 @@
             "Limestone": 10000.0
         },
         "Name": "Limestone Block"
+    },
+    "Lingonberry": {
+        "ClassName": "Consumable_Berry_Lingonberry_C",
+        "Icon": "Lingonberry_Icon",
+        "Name": "Lingonberry",
+        "SpoilTime": 600.0,
+        "Type": "Berry",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 1.5,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 0.0
+            }
+        }
+    },
+    "Lingonberry Seed": {
+        "ClassName": "Consumable_Berry_Lingonberry_Seed_C",
+        "Icon": "LingonberrySeed_Icon",
+        "Ingredients": {
+            "Lingonberry": 1.0
+        },
+        "Name": "Lingonberry Seed"
     },
     "Lion Figure Head": {
         "ClassName": "StructureBP_FigureHead_Lion_C",
@@ -6967,6 +7848,16 @@
         },
         "Name": "Magenta Coloring"
     },
+    "Magic Flask (Empty)": {
+        "ClassName": "WeaponMagicFlask_Public_C",
+        "Icon": "Icon_MagicFlask",
+        "Ingredients": {
+            "Crystal": 24.0,
+            "Gem": 50.0,
+            "Mythos": 10.0
+        },
+        "Name": "Magic Flask (Empty)"
+    },
     "Maize": {
         "ClassName": "Consumable_Vegetable_Maize_C",
         "Icon": "Maize_Icon",
@@ -6988,8 +7879,11 @@
         }
     },
     "Maize Seed": {
-        "ClassName": "Consumable_Vegetable_Maize_Seed_C",
+        "ClassName": "Consumable_Vegetable_Maize_Seed_MC_C",
         "Icon": "Maize_Seed_Icon",
+        "Ingredients": {
+            "Maize": 1.0
+        },
         "Name": "Maize Seed"
     },
     "Majestic Kraken": {
@@ -7203,6 +8097,17 @@
         },
         "Name": "Medium Crop Plot"
     },
+    "Medium Drawbrige": {
+        "ClassName": "Structure_Medium_Gate_Drawbrige_C",
+        "Icon": "Medium_DrawBridge_Icon",
+        "Ingredients": {
+            "Fibers": 190.0,
+            "Metal": 70.0,
+            "Thatch": 230.0,
+            "Wood": 520.0
+        },
+        "Name": "Medium Drawbrige"
+    },
     "Medium Handling Sail": {
         "ClassName": "Structure_Sail_Medium_Accel_C",
         "Icon": "Item_BermudaSailMedium_Icon",
@@ -7267,6 +8172,16 @@
             "Wood": 196.0
         },
         "Name": "Medium Weight Sail"
+    },
+    "Medium Wood Canopy Deck Art": {
+        "ClassName": "Medium_Wood_Canopy_Deck_Art_C",
+        "Icon": "Medium_Deck_Canopy_icon",
+        "Ingredients": {
+            "Fibers": 94.0,
+            "Thatch": 176.0,
+            "Wood": 246.0
+        },
+        "Name": "Medium Wood Canopy Deck Art"
     },
     "Medium Wood Gate": {
         "ClassName": "Structure_Gate_S_Wood_C",
@@ -7490,7 +8405,7 @@
     },
     "Mineral Oil": {
         "ClassName": "Resource_Oil_MineralOil_C",
-        "Icon": "CrudeOil_Icon",
+        "Icon": "Mineral_Oil_Icon",
         "Ingredients": {
             "Gold Coin": 150.0,
             "Oil": 30.0
@@ -7527,15 +8442,23 @@
             }
         }
     },
+    "Mint Cutting": {
+        "ClassName": "Consumable_Herb_Mint_Cutting_C",
+        "Icon": "MintCutting_Icon",
+        "Ingredients": {
+            "Mint": 1.0
+        },
+        "Name": "Mint Cutting"
+    },
     "Monarch's Cake": {
         "ClassName": "Consumable_MonarchsCake_C",
         "Icon": "Item_MonarchCake_Icon",
         "Ingredients": {
             "Cooking Herbs": 1.0,
-            "Egg!": 2.0,
-            "Potato": 3.0,
+            "Egg": 1.0,
+            "Potato": 2.0,
             "Saps": 3.0,
-            "Wheat or Maize": 15.0
+            "Wheat or Maize": 10.0
         },
         "Name": "Monarch's Cake",
         "SpoilTime": 36000.0,
@@ -7570,6 +8493,11 @@
             "Wood": 400.0
         },
         "Name": "Monumental Studies"
+    },
+    "More Crops Seed Vendor": {
+        "ClassName": "Structure_SeedVendor_MC_C",
+        "Icon": "NPC_Recruit_Icon",
+        "Name": "More Crops Seed Vendor"
     },
     "Mortar": {
         "ClassName": "Structure_ShipMortarShip_C",
@@ -7644,6 +8572,26 @@
         "Icon": "Item_MagicMarrow_Icon",
         "Name": "Mythos"
     },
+    "NPC Home": {
+        "ClassName": "Structure_City_NPCHome_C",
+        "Icon": "House_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Thatch": 36.0,
+            "Wood": 60.0
+        },
+        "Name": "NPC Home"
+    },
+    "NPC Shelter": {
+        "ClassName": "Structure_City_NPCShelter_C",
+        "Icon": "House_Icon",
+        "Ingredients": {
+            "Fibers": 60.0,
+            "Thatch": 36.0,
+            "Wood": 60.0
+        },
+        "Name": "NPC Shelter"
+    },
     "Napa Brown Coloring": {
         "ClassName": "Dye_NapaBrown_C",
         "Ingredients": {
@@ -7652,14 +8600,14 @@
         },
         "Name": "Napa Brown Coloring"
     },
-    "Naptha": {
+    "Naphtha": {
         "ClassName": "Resource_Oil_Naptha_C",
         "Icon": "Naptha_Icon",
         "Ingredients": {
             "Gold Coin": 50.0,
             "Oil": 30.0
         },
-        "Name": "Naptha"
+        "Name": "Naphtha"
     },
     "Narcoberry": {
         "ClassName": "Consumable_Berry_Narcoberry_C",
@@ -7731,6 +8679,26 @@
         },
         "Name": "Nitre"
     },
+    "Nitro Fertilizer": {
+        "ClassName": "Consumable_Fertilizer_Nitro_C",
+        "Icon": "Item_FertilizerNitro_Icon",
+        "Ingredients": {
+            "Coal": 20.0,
+            "Fertilizer": 1.0,
+            "Toxic Compound": 10.0
+        },
+        "Name": "Nitro Fertilizer",
+        "SpoilTime": 0.0,
+        "Type": "",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Health": {
+                "add": -70.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 20.0
+            }
+        }
+    },
     "Note": {
         "ClassName": "Note_C",
         "Icon": "Note_Icon",
@@ -7765,8 +8733,8 @@
             "Medicinal Herb": 5.0,
             "Rodent": 1.0,
             "Salt": 1.0,
-            "Vegetable": 10.0,
-            "Water": 2.0
+            "Vegetable": 8.0,
+            "Water": 1.0
         },
         "Name": "Obara Stew",
         "SpoilTime": 36000.0,
@@ -7786,7 +8754,7 @@
             "VitaminA": {
                 "add": 10.0,
                 "addOverTime": true,
-                "addOverTimeSpeed": 300.0
+                "addOverTimeSpeed": 10.0
             }
         }
     },
@@ -7874,6 +8842,14 @@
         },
         "Name": "Olive Coloring"
     },
+    "Olive Seed": {
+        "ClassName": "Consumable_Vegetable_Olive_Seed_C",
+        "Icon": "OliveSeed_Icon",
+        "Ingredients": {
+            "Olives": 1.0
+        },
+        "Name": "Olive Seed"
+    },
     "Olives": {
         "ClassName": "Consumable_Vegetable_Olive_C",
         "Icon": "Olive_Icon",
@@ -7915,8 +8891,11 @@
         }
     },
     "Onion Seed": {
-        "ClassName": "Consumable_Vegetable_Onion_Seed_C",
+        "ClassName": "Consumable_Vegetable_Onion_Seed_MC_C",
         "Icon": "Onion_Seed_Icon",
+        "Ingredients": {
+            "Onion": 1.0
+        },
         "Name": "Onion Seed"
     },
     "Opal": {
@@ -7944,6 +8923,216 @@
             "Opal Catalyst": 1.0
         },
         "Name": "Opal Gem Chunks"
+    },
+    "Optimized Bars Ceiling": {
+        "ClassName": "Structure_Optimized_Ceiling_Grids_C",
+        "Icon": "Bars_Ceiling_icon",
+        "Ingredients": {
+            "Alloy": 20.0,
+            "Salt": 8.0
+        },
+        "Name": "Optimized Bars Ceiling"
+    },
+    "Optimized Bars Wall": {
+        "ClassName": "Structure_Optimized_Wall_Bars_C",
+        "Icon": "Bars_Wall_icon",
+        "Ingredients": {
+            "Alloy": 15.0,
+            "Salt": 5.0
+        },
+        "Name": "Optimized Bars Wall"
+    },
+    "Optimized Crude Ceiling": {
+        "ClassName": "Structure_Optimized_Ceiling_Crude_C",
+        "Icon": "Crude_Ceilingl_icon",
+        "Ingredients": {
+            "Flint": 15.0,
+            "Metal": 25.0,
+            "Oil": 4.0,
+            "Stone": 70.0
+        },
+        "Name": "Optimized Crude Ceiling"
+    },
+    "Optimized Crude Floor": {
+        "ClassName": "Structure_Optimized_Floor_Crude_C",
+        "Icon": "Crude_Floor_icon",
+        "Ingredients": {
+            "Flint": 15.0,
+            "Metal": 30.0,
+            "Oil": 5.0,
+            "Stone": 80.0
+        },
+        "Name": "Optimized Crude Floor"
+    },
+    "Optimized Crude Pillar": {
+        "ClassName": "Structure_Optimized_Pillar_Crude_C",
+        "Icon": "Pillars_Crude_icon",
+        "Ingredients": {
+            "Flint": 13.0,
+            "Metal": 25.0,
+            "Oil": 4.0,
+            "Stone": 65.0
+        },
+        "Name": "Optimized Crude Pillar"
+    },
+    "Optimized Crude Roof": {
+        "ClassName": "Structure_Optimized_Roof_Crude_C",
+        "Icon": "Roof_Crude_icon",
+        "Ingredients": {
+            "Flint": 15.0,
+            "Metal": 25.0,
+            "Oil": 4.0,
+            "Stone": 70.0
+        },
+        "Name": "Optimized Crude Roof"
+    },
+    "Optimized Crude Wall": {
+        "ClassName": "Structure_Optimized_Wall_Crude_C",
+        "Icon": "Crude_Wall_icon",
+        "Ingredients": {
+            "Flint": 8.0,
+            "Metal": 15.0,
+            "Oil": 3.0,
+            "Stone": 60.0
+        },
+        "Name": "Optimized Crude Wall"
+    },
+    "Optimized Large Crude Wall": {
+        "ClassName": "Structure_Optimized_Large_Wall_Crude_C",
+        "Icon": "Optimized_LargeWall_Crude_Icon",
+        "Ingredients": {
+            "Flint": 48.0,
+            "Metal": 90.0,
+            "Oil": 18.0,
+            "Stone": 360.0
+        },
+        "Name": "Optimized Large Crude Wall"
+    },
+    "Optimized Large Stone Wall": {
+        "ClassName": "Structure_Optimized_Large_Wall_Stone_C",
+        "Icon": "Optimized_LargeWall_Icon",
+        "Ingredients": {
+            "Fibers": 48.0,
+            "Metal": 72.0,
+            "Stone": 120.0,
+            "Thatch": 132.0,
+            "Wood": 78.0
+        },
+        "Name": "Optimized Large Stone Wall"
+    },
+    "Optimized Manned Puckle": {
+        "ClassName": "Structure_Optimized_Puckle_NPC_C",
+        "Icon": "Item_Optimized_Puckle_Manned_Icon",
+        "Ingredients": {
+            "Alloy": 48.0,
+            "Fibers": 28.0,
+            "Gold Coin": 10.0,
+            "Hide": 22.0,
+            "Wood": 42.0
+        },
+        "Name": "Optimized Manned Puckle"
+    },
+    "Optimized Paneling Wood Wall (Preview Test)": {
+        "ClassName": "Structure_Optimized_Paneling_Wood_C",
+        "Icon": "Optimized_Paneling_Wall_icon",
+        "Ingredients": {
+            "Thatch": 60.0,
+            "Wood": 40.0
+        },
+        "Name": "Optimized Paneling Wood Wall (Preview Test)"
+    },
+    "Optimized Puckle": {
+        "ClassName": "Structure_Optimized_Puckle_C",
+        "Icon": "Item_Optimized_Puckle_Icon",
+        "Ingredients": {
+            "Alloy": 48.0,
+            "Fibers": 28.0,
+            "Hide": 22.0,
+            "Wood": 42.0
+        },
+        "Name": "Optimized Puckle"
+    },
+    "Optimized Secret Crude Doorway": {
+        "ClassName": "Structure_Optimized_Secret_Doorway_Crude_C",
+        "Icon": "SecretDoorway_Crude_icon",
+        "Ingredients": {
+            "Flint": 8.0,
+            "Metal": 15.0,
+            "Oil": 3.0,
+            "Stone": 60.0
+        },
+        "Name": "Optimized Secret Crude Doorway"
+    },
+    "Optimized Stairs Crude": {
+        "ClassName": "Structure_Optimized_Stairs_Crude_C",
+        "Icon": "Stairs_Crude_icon",
+        "Ingredients": {
+            "Flint": 15.0,
+            "Metal": 25.0,
+            "Oil": 4.0,
+            "Stone": 70.0
+        },
+        "Name": "Optimized Stairs Crude"
+    },
+    "Optimized Stone Ceiling": {
+        "ClassName": "Structure_Optimized_Ceiling_Stone_C",
+        "Icon": "Optimized_Ceiling2Iconv2",
+        "Ingredients": {
+            "Fibers": 5.0,
+            "Metal": 5.0,
+            "Stone": 25.0,
+            "Thatch": 20.0,
+            "Wood": 12.0
+        },
+        "Name": "Optimized Stone Ceiling"
+    },
+    "Optimized Stone Floor": {
+        "ClassName": "Structure_Optimized_Floor_Stone_C",
+        "Icon": "Optimized_FloorIcon2",
+        "Ingredients": {
+            "Fibers": 13.0,
+            "Metal": 13.0,
+            "Stone": 35.0,
+            "Thatch": 25.0,
+            "Wood": 18.0
+        },
+        "Name": "Optimized Stone Floor"
+    },
+    "Optimized Stone Pillar": {
+        "ClassName": "Structure_Optimized_Pillar_S_Stone_C",
+        "Icon": "Optimized_PillarIcon",
+        "Ingredients": {
+            "Fibers": 10.0,
+            "Metal": 10.0,
+            "Stone": 35.0,
+            "Thatch": 25.0,
+            "Wood": 15.0
+        },
+        "Name": "Optimized Stone Pillar"
+    },
+    "Optimized Stone Roof": {
+        "ClassName": "Structure_Optimized_Roof_Stone_C",
+        "Icon": "Optimized_RoofIcon",
+        "Ingredients": {
+            "Fibers": 12.0,
+            "Metal": 10.0,
+            "Stone": 25.0,
+            "Thatch": 25.0,
+            "Wood": 13.0
+        },
+        "Name": "Optimized Stone Roof"
+    },
+    "Optimized Stone Wall": {
+        "ClassName": "Structure_Optimized_Wall_Stone_C",
+        "Icon": "Optimized_CeilingIconV2",
+        "Ingredients": {
+            "Fibers": 8.0,
+            "Metal": 12.0,
+            "Stone": 20.0,
+            "Thatch": 22.0,
+            "Wood": 13.0
+        },
+        "Name": "Optimized Stone Wall"
     },
     "Orange Coloring": {
         "ClassName": "Dye_Orange_C",
@@ -7994,6 +9183,14 @@
             }
         }
     },
+    "Oregano Cutting": {
+        "ClassName": "Consumable_Herb_Oregano_Cutting_C",
+        "Icon": "OreganoCutting_Icon",
+        "Ingredients": {
+            "Oregano": 1.0
+        },
+        "Name": "Oregano Cutting"
+    },
     "Organic Paste": {
         "ClassName": "Resource_OrganicPaste_C",
         "Icon": "Item_OrganicPaste_Icon",
@@ -8034,7 +9231,7 @@
     },
     "Orichalcumized Rock": {
         "ClassName": "Resource_Stone_Orichalcumized_Rock_C",
-        "Icon": "ICON_Rock_Coquina",
+        "Icon": "Orichalcumized_Rock_Icon",
         "Ingredients": {
             "Gold Coin": 50.0,
             "Stone": 50.0
@@ -8060,7 +9257,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -8172,7 +9369,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -8201,6 +9398,14 @@
             }
         }
     },
+    "Parsley Cutting": {
+        "ClassName": "Consumable_Herb_Parsley_Cutting_C",
+        "Icon": "ParsleyCutting_Icon",
+        "Ingredients": {
+            "Parsley": 1.0
+        },
+        "Name": "Parsley Cutting"
+    },
     "Patch Kit": {
         "ClassName": "Resource_PatchKit_C",
         "Icon": "PatchKit_Icon",
@@ -8210,6 +9415,14 @@
             "Wood": 100.0
         },
         "Name": "Patch Kit"
+    },
+    "Pathfinder Respec": {
+        "ClassName": "ShopRespec_C",
+        "Icon": "Item_Respec_Icon",
+        "Ingredients": {
+            "Gold Coin": 250.0
+        },
+        "Name": "Pathfinder Respec"
     },
     "Pearl": {
         "ClassName": "Resource_Crystal_Pearl_C",
@@ -8231,7 +9444,7 @@
     },
     "Pegasus": {
         "ClassName": "Ship_Pegasus_C",
-        "Icon": "KrakenShipNewIcon",
+        "Icon": "ICON_Pegasus",
         "Ingredients": {
             "Fibers": 2000.0,
             "Metal": 20.0,
@@ -8309,7 +9522,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -8339,8 +9552,11 @@
         }
     },
     "Pepper Seed": {
-        "ClassName": "Consumable_Vegetable_Pepper_Seed_C",
+        "ClassName": "Consumable_Vegetable_Pepper_Seed_MC_C",
         "Icon": "Pepper_Seed_Icon",
+        "Ingredients": {
+            "Pepper": 1.0
+        },
         "Name": "Pepper Seed"
     },
     "Pike": {
@@ -8417,6 +9633,15 @@
             }
         }
     },
+    "Planter Box": {
+        "ClassName": "Structure_PlanterBox_C",
+        "Icon": "PlanterBox_Icon",
+        "Ingredients": {
+            "Stone": 80.0,
+            "Wood": 80.0
+        },
+        "Name": "Planter Box"
+    },
     "Plate Boots": {
         "ClassName": "Armor_HeavyBoots_C",
         "Icon": "Item_HeavyArmorBoots_Icon",
@@ -8488,6 +9713,15 @@
         },
         "Name": "Pohutukawa Red Coloring"
     },
+    "Poison Arrow": {
+        "ClassName": "Ammo_ArrowPoison_C",
+        "Icon": "Item_PoisonArrow_Icon",
+        "Ingredients": {
+            "Stone Arrow": 1.0,
+            "Toxic Compound": 10.0
+        },
+        "Name": "Poison Arrow"
+    },
     "Polymer": {
         "ClassName": "Resource_Polymer_C",
         "Icon": "Polymer_Icon",
@@ -8534,15 +9768,23 @@
             }
         }
     },
+    "Poppy Seed": {
+        "ClassName": "Consumable_MedHerb_Poppy_Seed_C",
+        "Icon": "PoppySeed_Icon",
+        "Ingredients": {
+            "Poppy": 1.0
+        },
+        "Name": "Poppy Seed"
+    },
     "Pork Pie": {
         "ClassName": "Consumable_PorkPie_C",
         "Icon": "Item_PorkPie_Icon",
         "Ingredients": {
             "Cooked Meat": 5.0,
             "Cooking Herbs": 3.0,
-            "Potato": 3.0,
+            "Potato": 2.0,
             "Salt": 1.0,
-            "Wheat or Maize": 10.0
+            "Wheat or Maize": 8.0
         },
         "Name": "Pork Pie",
         "SpoilTime": 36000.0,
@@ -8592,6 +9834,14 @@
         },
         "Name": "Pot of Gold"
     },
+    "Pot of Gold Cannon Skin": {
+        "ClassName": "CannonSkin_PotOfGold_C",
+        "Icon": "Item_Cannonskin_PotOfGold_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Pot of Gold Cannon Skin"
+    },
     "Potato": {
         "ClassName": "Consumable_Vegetable_Potato_C",
         "Icon": "Potato_Icon",
@@ -8613,8 +9863,11 @@
         }
     },
     "Potato Seed": {
-        "ClassName": "Consumable_Vegetable_Potato_Seed_C",
+        "ClassName": "Consumable_Vegetable_Potato_Seed_MC_C",
         "Icon": "Potato_Seed_Icon",
+        "Ingredients": {
+            "Potato": 1.0
+        },
         "Name": "Potato Seed"
     },
     "Preserving Bag": {
@@ -8752,9 +10005,9 @@
         "ClassName": "Consumable_Pudding_C",
         "Icon": "Item_Pudding_Icon",
         "Ingredients": {
-            "Egg!": 3.0,
+            "Egg": 2.0,
             "Milk": 1.0,
-            "Rice": 3.0,
+            "Rice": 2.0,
             "Salt": 1.0,
             "Saps": 5.0,
             "Sea Grapes": 10.0
@@ -8800,6 +10053,34 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Pumpkin": {
+        "ClassName": "Consumable_Vegetable_Pumpkin_C",
+        "Icon": "Pumpkin_Icon",
+        "Name": "Pumpkin",
+        "SpoilTime": 8640.0,
+        "Type": "Vegetable",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 5.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Torpidity": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.7376100957627732e-43
+            }
+        }
+    },
+    "Pumpkin Seed": {
+        "ClassName": "Consumable_Vegetable_Pumpkin_Seed_C",
+        "Icon": "PumpkinSeed_Icon",
+        "Ingredients": {
+            "Pumpkin": 1.0
+        },
+        "Name": "Pumpkin Seed"
     },
     "Pure Sulfur": {
         "ClassName": "Resource_PureSulfur_C",
@@ -8855,6 +10136,14 @@
             }
         }
     },
+    "Rabbit Egg": {
+        "ClassName": "Resource_EggEaster_C",
+        "Icon": "EasterEgg_Icon",
+        "Ingredients": {
+            "Gold Coin": 100.0
+        },
+        "Name": "Rabbit Egg"
+    },
     "Radiolarite": {
         "ClassName": "Resource_Flint_Radiolarite_C",
         "Icon": "Radiolarite_Icon",
@@ -8894,6 +10183,18 @@
         },
         "Name": "Ramming Galley"
     },
+    "Ramshackle Caravela": {
+        "ClassName": "Ship_Caravela_Gold_C",
+        "Icon": "CaravelaIcon4",
+        "Ingredients": {
+            "Fibers": 175.0,
+            "Gold Coin": 35.0,
+            "Metal": 32.0,
+            "Thatch": 220.0,
+            "Wood": 200.0
+        },
+        "Name": "Ramshackle Caravela"
+    },
     "Raptor Egg": {
         "ClassName": "Consumable_Egg_Raptor_C",
         "Icon": "Egg_Icon",
@@ -8929,6 +10230,26 @@
             }
         }
     },
+    "Rattlesnake Egg": {
+        "ClassName": "Consumable_Egg_Rattlesnake_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Rattlesnake Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
     "Razortooth Egg": {
         "ClassName": "Consumable_Egg_Razortooth_C",
         "Icon": "Egg_Icon",
@@ -8940,7 +10261,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -8953,14 +10274,14 @@
         "ClassName": "Consumable_ReapersRegard_C",
         "Icon": "Item_ReapersRegards_Icon",
         "Ingredients": {
-            "Acerolla": 5.0,
+            "Acerola": 5.0,
             "Cooked Fish": 10.0,
             "Cooking Herbs": 10.0,
-            "Lignonberry": 5.0,
+            "Lingonberry": 5.0,
             "Salt": 3.0,
             "Sea Grapes": 5.0,
             "Syrup": 3.0,
-            "Vegetable": 20.0,
+            "Vegetable": 15.0,
             "Water": 1.0
         },
         "Name": "Reaper's Regard",
@@ -9005,6 +10326,14 @@
             }
         }
     },
+    "Red Algae Cutting": {
+        "ClassName": "Consumable_Herb_RedAlgae_Cutting_C",
+        "Icon": "RedAlgaeCutting_Icon",
+        "Ingredients": {
+            "Red Algae": 1.0
+        },
+        "Name": "Red Algae Cutting"
+    },
     "Red Coloring": {
         "ClassName": "Dye_Red_C",
         "Ingredients": {
@@ -9040,6 +10369,18 @@
             "Polymer": 15.0
         },
         "Name": "Refrigerator"
+    },
+    "Reinforced Schooner": {
+        "ClassName": "Ship_reinforced_Schooner_C",
+        "Icon": "ReinforcedEscunaBrancaIcon4",
+        "Ingredients": {
+            "Alloy": 1542.0,
+            "Fibers": 732.0,
+            "Metal": 442.0,
+            "Thatch": 840.0,
+            "Wood": 590.0
+        },
+        "Name": "Reinforced Schooner"
     },
     "Relic of the Maw": {
         "ClassName": "Consumable_RelicOfTheMaw_C",
@@ -9088,6 +10429,144 @@
         "Icon": "MenuArrowRight",
         "Name": "Retractable Ladder"
     },
+    "Reusable Bola": {
+        "ClassName": "WeaponBola_RT_C",
+        "Icon": "Item_Bola_Icon_RT",
+        "Ingredients": {
+            "Fibers": 36.0,
+            "Stone": 9.0,
+            "Thatch": 10.0
+        },
+        "Name": "Reusable Bola"
+    },
+    "Reusable Climbing Pick": {
+        "ClassName": "WeaponClimbPick_RT_C",
+        "Icon": "Item_ClimbingPick_Icon_RT",
+        "Ingredients": {
+            "Fibers": 12.0,
+            "Hide": 4.0,
+            "Metal": 8.0,
+            "Wood": 8.0
+        },
+        "Name": "Reusable Climbing Pick"
+    },
+    "Reusable Flare Gun": {
+        "ClassName": "WeaponFlareGun_RT_C",
+        "Icon": "Item_FlareGun_Icon_RT",
+        "Ingredients": {
+            "Fibers": 6.0,
+            "Flint": 2.0,
+            "Gunpowder": 10.0,
+            "Wood": 4.0
+        },
+        "Name": "Reusable Flare Gun"
+    },
+    "Reusable Glider Suit": {
+        "ClassName": "Armor_Glider_RT_C",
+        "Icon": "Item_GliderWings_Icon_RT",
+        "Ingredients": {
+            "Fibers": 32.0,
+            "Keratinoid": 24.0,
+            "Metal": 6.0
+        },
+        "Name": "Reusable Glider Suit"
+    },
+    "Reusable Grappling Hook": {
+        "ClassName": "WeaponGrapplingHook_RT_C",
+        "Icon": "Item_GrapplingHook_Icon_RT",
+        "Ingredients": {
+            "Fibers": 160.0,
+            "Hide": 4.0,
+            "Metal": 16.0,
+            "Wood": 2.0
+        },
+        "Name": "Reusable Grappling Hook"
+    },
+    "Reusable Lantern": {
+        "ClassName": "Lantern_RT_C",
+        "Icon": "Item_BeltOilLantern_Icon_RT",
+        "Ingredients": {
+            "Crystal": 8.0,
+            "Flint": 5.0,
+            "Metal": 4.0,
+            "Oil": 4.0,
+            "Stone": 6.0
+        },
+        "Name": "Reusable Lantern"
+    },
+    "Reusable Repair Hammer": {
+        "ClassName": "WeaponRepairHammer_RT_C",
+        "Icon": "Item_RepairMallet_Icon_RT",
+        "Ingredients": {
+            "Fibers": 22.0,
+            "Thatch": 14.0,
+            "Wood": 18.0
+        },
+        "Name": "Reusable Repair Hammer"
+    },
+    "Reusable Scissors": {
+        "ClassName": "WeaponScissors_RT_C",
+        "Icon": "Item_Scissors_Icon_RT",
+        "Ingredients": {
+            "Flint": 6.0,
+            "Metal": 4.0,
+            "Stone": 2.0
+        },
+        "Name": "Reusable Scissors"
+    },
+    "Reusable Sextant": {
+        "ClassName": "WeaponSextant_RT_C",
+        "Icon": "Item_Sextant_Icon_RT",
+        "Ingredients": {
+            "Crystal": 6.0,
+            "Gem": 12.0,
+            "Metal": 14.0,
+            "Wood": 9.0
+        },
+        "Name": "Reusable Sextant"
+    },
+    "Reusable Shovel": {
+        "ClassName": "WeaponShovel_RT_C",
+        "Icon": "Item_Shovel_Icon_RT",
+        "Ingredients": {
+            "Metal": 6.0,
+            "Thatch": 10.0,
+            "Wood": 18.0
+        },
+        "Name": "Reusable Shovel"
+    },
+    "Reusable Spear": {
+        "ClassName": "WeaponYarkSpear_RT_C",
+        "Icon": "Item_Spear_Icon_RT",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Flint": 3.0,
+            "Wood": 12.0
+        },
+        "Name": "Reusable Spear"
+    },
+    "Reusable Torch": {
+        "ClassName": "WeaponTorch_RT_C",
+        "Icon": "Item_Torch_Icon_RT",
+        "Ingredients": {
+            "Flint": 1.0,
+            "Stone": 1.0,
+            "Thatch": 10.0,
+            "Wood": 3.0
+        },
+        "Name": "Reusable Torch"
+    },
+    "Reusable Wood Wall Hook": {
+        "ClassName": "Structure_WallHook_Wood_RT_C",
+        "Icon": "Item_Wallhook_Icon_RT",
+        "Ingredients": {
+            "Flint": 3.0,
+            "Metal": 4.0,
+            "Thatch": 8.0,
+            "Wood": 12.0
+        },
+        "Name": "Reusable Wood Wall Hook"
+    },
     "Rhino Horn": {
         "ClassName": "Resource_Keratanoid_RhinoHorn_C",
         "Icon": "RhinoHornIcon",
@@ -9114,8 +10593,11 @@
         }
     },
     "Rice Seed": {
-        "ClassName": "Consumable_Vegetable_Rice_Seed_C",
+        "ClassName": "Consumable_Vegetable_Rice_Seed_MC_C",
         "Icon": "Rice_Seed_Icon",
+        "Ingredients": {
+            "Rice": 1.0
+        },
         "Name": "Rice Seed"
     },
     "Right Hook Hand Skin": {
@@ -9246,7 +10728,7 @@
         "ClassName": "Consumable_RosemaryChicken_C",
         "Icon": "Item_RosemaryChicken_Icon",
         "Ingredients": {
-            "Carrot": 3.0,
+            "Carrot": 2.0,
             "Cooked Meat": 3.0,
             "Cooking Herbs": 3.0,
             "Salt": 1.0
@@ -9273,6 +10755,14 @@
             }
         }
     },
+    "Rosemary Cutting": {
+        "ClassName": "Consumable_Herb_Rosemary_Cutting_C",
+        "Icon": "RosemaryCutting_Icon",
+        "Ingredients": {
+            "Rosemary": 1.0
+        },
+        "Name": "Rosemary Cutting"
+    },
     "Rotten Meat": {
         "ClassName": "Consumable_Meat_Spoiled_C",
         "Icon": "Item_SpoiledMeat_Icon",
@@ -9285,6 +10775,11 @@
                 "add": 10.0,
                 "addOverTime": true,
                 "addOverTimeSpeed": 5.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 0.0
             },
             "Oxygen": {
                 "add": 0.0,
@@ -9567,8 +11062,7 @@
         "ClassName": "Structure_Scarecrow_C",
         "Icon": "Scarecrow_Icon",
         "Ingredients": {
-            "Thatch": 65.0,
-            "Wood": 15.0
+            "Gold Coin": 50.0
         },
         "Name": "Scarecrow"
     },
@@ -9591,6 +11085,14 @@
                 "addOverTimeSpeed": 0.0
             }
         }
+    },
+    "Schisandra Seed": {
+        "ClassName": "Consumable_Berry_Schisandra_Seed_C",
+        "Icon": "SchisandraSeed_Icon",
+        "Ingredients": {
+            "Schisandra": 1.0
+        },
+        "Name": "Schisandra Seed"
     },
     "Schooner": {
         "ClassName": "Ship_Schooner_C",
@@ -9620,6 +11122,44 @@
             "Stone": 2.0
         },
         "Name": "Scissors"
+    },
+    "Scorpion Egg": {
+        "ClassName": "Consumable_Egg_Scorpion_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Scorpion Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 2.0999999046325684,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
+            }
+        }
+    },
+    "Sea Dock": {
+        "ClassName": "StructureShipHouse_FOB_C",
+        "Icon": "FOB_Dock_Icon",
+        "Ingredients": {
+            "Fibers": 5000.0,
+            "Metal": 5000.0,
+            "Wood": 10000.0
+        },
+        "Name": "Sea Dock"
+    },
+    "Sea Grape Seed": {
+        "ClassName": "Consumable_Berry_SeaGrapes_Seed_C",
+        "Icon": "SeaGrapeSeed_Icon",
+        "Ingredients": {
+            "Sea Grapes": 1.0
+        },
+        "Name": "Sea Grape Seed"
     },
     "Sea Grapes": {
         "ClassName": "Consumable_Berry_SeaGrape_C",
@@ -9661,7 +11201,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -9769,7 +11309,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -9789,29 +11329,26 @@
         },
         "Name": "Ship Ammunition Container"
     },
-    "Ship Ballista Railing": {
-        "ClassName": "Structure_MidShipSideTileBallistaRailingRammingGeneral_C",
-        "Icon": "StandardBallistaRailing",
+    "Ship Bottle": {
+        "ClassName": "ShipBottle_C",
+        "Icon": "ShipBottle",
         "Ingredients": {
-            "Alloy": 98.0,
-            "Fibers": 250.0,
-            "Stone": 180.0,
-            "Thatch": 225.0,
-            "Wood": 550.0
+            "Solidified Essence": 50.0
         },
-        "Name": "Ship Ballista Railing"
+        "Name": "Ship Bottle"
     },
-    "Ship Ballista Railing (Kraken)": {
-        "ClassName": "Structure_MidShipSideTileBallistaRailingKrakenGeneral_C",
-        "Icon": "KrakenBallistaRailing",
+    "Ship Bottle Station": {
+        "ClassName": "Structure_ShipBottleStation_C",
+        "Icon": "ShipBottlingStationIcon",
         "Ingredients": {
-            "Alloy": 98.0,
-            "Fibers": 250.0,
-            "Stone": 180.0,
-            "Thatch": 225.0,
-            "Wood": 550.0
+            "Gem": 60.0,
+            "Gold Coin": 270.0,
+            "Metal": 96.0,
+            "Stone": 110.0,
+            "Thatch": 134.0,
+            "Wood": 240.0
         },
-        "Name": "Ship Ballista Railing (Kraken)"
+        "Name": "Ship Bottle Station"
     },
     "Ship Cannon": {
         "ClassName": "Structure_ShipCannon_C",
@@ -9824,30 +11361,6 @@
         },
         "Name": "Ship Cannon"
     },
-    "Ship Cannon Railing": {
-        "ClassName": "Structure_MidShipSideTileCannonRailingRammingGeneral_C",
-        "Icon": "StandardRailingCannon",
-        "Ingredients": {
-            "Alloy": 60.0,
-            "Fibers": 70.0,
-            "Hide": 50.0,
-            "Thatch": 100.0,
-            "Wood": 150.0
-        },
-        "Name": "Ship Cannon Railing"
-    },
-    "Ship Cannon Railing (Kraken)": {
-        "ClassName": "Structure_MidShipSideTileCannonRailingKrakenGeneral_C",
-        "Icon": "KrakenCannonRailing",
-        "Ingredients": {
-            "Alloy": 60.0,
-            "Fibers": 70.0,
-            "Hide": 50.0,
-            "Thatch": 100.0,
-            "Wood": 150.0
-        },
-        "Name": "Ship Cannon Railing (Kraken)"
-    },
     "Ship Cargo Rack": {
         "ClassName": "Structure_ShipCargoRack_Normal_C",
         "Icon": "Item_CargoShipAttachment_Icon",
@@ -9858,32 +11371,6 @@
             "Wood": 352.0
         },
         "Name": "Ship Cargo Rack"
-    },
-    "Ship Catapult Railing": {
-        "ClassName": "Structure_MidShipSideTileCatapultRailingRammingGeneral_C",
-        "Icon": "StandardCatapultRailing",
-        "Ingredients": {
-            "Alloy": 140.0,
-            "Fibers": 50.0,
-            "Hide": 70.0,
-            "Stone": 340.0,
-            "Thatch": 180.0,
-            "Wood": 500.0
-        },
-        "Name": "Ship Catapult Railing"
-    },
-    "Ship Catapult Railing (Kraken)": {
-        "ClassName": "Structure_MidShipSideTileCatapultRailingKrakenGeneral_C",
-        "Icon": "KrakenCatapultRailing",
-        "Ingredients": {
-            "Alloy": 140.0,
-            "Fibers": 50.0,
-            "Hide": 70.0,
-            "Stone": 340.0,
-            "Thatch": 180.0,
-            "Wood": 500.0
-        },
-        "Name": "Ship Catapult Railing (Kraken)"
     },
     "Ship Deck Base": {
         "ClassName": "ShipDeckBase_C",
@@ -9916,30 +11403,6 @@
             "Wood": 5.0
         },
         "Name": "Ship Item"
-    },
-    "Ship Large Cannon Railing": {
-        "ClassName": "Structure_MidShipSideTileLargeCannonRailingRammingGeneral_C",
-        "Icon": "StandardLargeCannonRailing",
-        "Ingredients": {
-            "Alloy": 48.0,
-            "Fibers": 75.0,
-            "Hide": 35.0,
-            "Thatch": 85.0,
-            "Wood": 180.0
-        },
-        "Name": "Ship Large Cannon Railing"
-    },
-    "Ship Large Cannon Railing (Kraken)": {
-        "ClassName": "Structure_MidShipSideTileLargeCannonRailingKrakenGeneral_C",
-        "Icon": "KrakenLargeCannonRailing",
-        "Ingredients": {
-            "Alloy": 48.0,
-            "Fibers": 75.0,
-            "Hide": 35.0,
-            "Thatch": 85.0,
-            "Wood": 180.0
-        },
-        "Name": "Ship Large Cannon Railing (Kraken)"
     },
     "Ship Plank Base": {
         "ClassName": "ShipPlankBase_C",
@@ -9979,6 +11442,16 @@
         },
         "Name": "Ship Rear Castle"
     },
+    "Ship Repair Podium": {
+        "ClassName": "Structure_RepairPodium_SRC_C",
+        "Icon": "RepairPodium_Icon_SRC",
+        "Ingredients": {
+            "Fibers": 14.0,
+            "Thatch": 18.0,
+            "Wood": 30.0
+        },
+        "Name": "Ship Repair Podium"
+    },
     "Ship Resources Box": {
         "ClassName": "Structure_CrewPaymentBox_C",
         "Icon": "IconCrewPaymentBox",
@@ -10010,17 +11483,16 @@
         },
         "Name": "Ship Steering Wheel"
     },
-    "Ship Tame Cargo Railing": {
-        "ClassName": "Structure_TameCargoRailing_C",
-        "Icon": "ICON_BoatBarn",
+    "ShipCargoRack Caravela": {
+        "ClassName": "Structure_ShipHangarCargo_Caravela_C",
+        "Icon": "CargoCaravelaIcon",
         "Ingredients": {
-            "Alloy": 60.0,
-            "Fibers": 70.0,
-            "Hide": 50.0,
-            "Thatch": 100.0,
-            "Wood": 150.0
+            "Fibers": 386.0,
+            "Hide": 82.0,
+            "Metal": 78.0,
+            "Wood": 452.0
         },
-        "Name": "Ship Tame Cargo Railing"
+        "Name": "ShipCargoRack Caravela"
     },
     "ShipHangarBase": {
         "ClassName": "Structure_ShipHangar_Base_C",
@@ -10056,7 +11528,7 @@
             "Rosemary": 10.0,
             "Salt": 1.0,
             "Saps": 3.0,
-            "Vegetable": 10.0
+            "Vegetable": 8.0
         },
         "Name": "Shrunken Head Stew",
         "SpoilTime": 36000.0,
@@ -10221,9 +11693,7 @@
         "ClassName": "Structure_Furniture_Sleigh_C",
         "Icon": "SleighIcon",
         "Ingredients": {
-            "Fibers": 50.0,
-            "Thatch": 100.0,
-            "Wood": 100.0
+            "Gold Coin": 100.0
         },
         "Name": "Sleigh"
     },
@@ -10370,6 +11840,16 @@
         },
         "Name": "Small Weight Sail"
     },
+    "Small Wood Canopy Deck Art": {
+        "ClassName": "Small_Wood_Canopy_Deck_Art_C",
+        "Icon": "Small_Deck_Canopy_icon",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Thatch": 105.0,
+            "Wood": 70.0
+        },
+        "Name": "Small Wood Canopy Deck Art"
+    },
     "Small Wood Gate": {
         "ClassName": "Structure_Gate_XS_Wood_C",
         "Icon": "Item_WoodGateWaySmall2_Icon",
@@ -10391,6 +11871,16 @@
             "Wood": 180.0
         },
         "Name": "Small Wood Gateway"
+    },
+    "Small Wood Gunport": {
+        "ClassName": "Ship_Gunport_Wood_Small_C",
+        "Icon": "SmallGunPort_Icon",
+        "Ingredients": {
+            "Fibers": 50.0,
+            "Thatch": 60.0,
+            "Wood": 65.0
+        },
+        "Name": "Small Wood Gunport"
     },
     "Small Wood Plank": {
         "ClassName": "Ship_Plank_Wood_Small_C",
@@ -10433,15 +11923,19 @@
         },
         "Name": "Snow White Coloring"
     },
+    "Snowball Cannon Skin": {
+        "ClassName": "CannonSkin_Snowball_C",
+        "Icon": "Item_CannonSkin_Snowball_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Snowball Cannon Skin"
+    },
     "Snowman": {
         "ClassName": "Structure_Furniture_Snowman_C",
         "Icon": "Snowman_Icon",
         "Ingredients": {
-            "Carrot": 1.0,
-            "Coal": 12.0,
-            "Fibers": 50.0,
-            "Ice": 30.0,
-            "Wood": 2.0
+            "Gold Coin": 100.0
         },
         "Name": "Snowman"
     },
@@ -10483,10 +11977,10 @@
         "Icon": "Item_SongOfTheSea_Icon",
         "Ingredients": {
             "Acai": 10.0,
-            "Beans": 10.0,
+            "Beans": 5.0,
             "Cooked Prime Fish Meat": 10.0,
             "Iodine": 5.0,
-            "Onion": 10.0,
+            "Onion": 5.0,
             "Poppy": 5.0,
             "Potato": 5.0
         },
@@ -10564,11 +12058,11 @@
         "ClassName": "Consumable_SpicedRum_C",
         "Icon": "Item_SpicyRum_Icon",
         "Ingredients": {
-            "Chili": 3.0,
+            "Chili": 2.0,
             "Cooking Herbs": 10.0,
             "Saps": 5.0,
             "Water": 1.0,
-            "Wheat": 10.0
+            "Wheat": 8.0
         },
         "Name": "Spiced Rum",
         "SpoilTime": 0.0,
@@ -10597,10 +12091,10 @@
         "Icon": "Item_SpicyRoll_Icon",
         "Ingredients": {
             "Cooked Meat": 5.0,
-            "Rice": 10.0,
+            "Rice": 8.0,
             "Salt": 1.0,
             "Turmeric": 3.0,
-            "Vegetable": 20.0
+            "Vegetable": 15.0
         },
         "Name": "Spicy Roll",
         "SpoilTime": 36000.0,
@@ -10621,6 +12115,26 @@
                 "add": 0.0,
                 "addOverTime": false,
                 "addOverTimeSpeed": 3.0436202645135027e-42
+            }
+        }
+    },
+    "Spider Egg": {
+        "ClassName": "Consumable_Egg_Spider_TO_C",
+        "Icon": "Egg_Icon",
+        "Name": "Spider Egg",
+        "SpoilTime": 691200.0,
+        "Type": "",
+        "Weight": 0.699999988079071,
+        "stats": {
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
     },
@@ -10673,6 +12187,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Spirulina Seed": {
+        "ClassName": "Consumable_MedHerb_Spirulina_Seed_C",
+        "Icon": "SpirulinaSeed_Icon",
+        "Ingredients": {
+            "Spirulina": 1.0
+        },
+        "Name": "Spirulina Seed"
     },
     "Spray Painter": {
         "ClassName": "WeaponSprayPaint_C",
@@ -10770,8 +12292,7 @@
         "ClassName": "Furniture_Stocking_C",
         "Icon": "Stocking_Icon",
         "Ingredients": {
-            "Fibers": 40.0,
-            "Hide": 30.0
+            "Gold Coin": 100.0
         },
         "Name": "Stocking"
     },
@@ -10896,6 +12417,14 @@
         },
         "Name": "Stone Pillar"
     },
+    "Stone Rabbit Statue": {
+        "ClassName": "Structure_StoneRabbitStatue_C",
+        "Icon": "Item_StoneRabbitStatue_Icon",
+        "Ingredients": {
+            "Gold Coin": 50.0
+        },
+        "Name": "Stone Rabbit Statue"
+    },
     "Stone Roof": {
         "ClassName": "Structure_Roof_Stone_C",
         "Icon": "Item_StoneRoof_Icon",
@@ -10997,6 +12526,14 @@
             }
         }
     },
+    "Strawberry Seed": {
+        "ClassName": "Consumable_BerryStrawberry_Seed_C",
+        "Icon": "StrawberrySeed_Icon",
+        "Ingredients": {
+            "Strawberry": 1.0
+        },
+        "Name": "Strawberry Seed"
+    },
     "Structure Cheat Box": {
         "ClassName": "Structure_CheatBox_C",
         "Icon": "SmallStorage_Icon",
@@ -11018,9 +12555,9 @@
         "Ingredients": {
             "Cooked Fish": 5.0,
             "Cooking Herbs": 5.0,
-            "Pepper": 5.0,
+            "Pepper": 3.0,
             "Salt": 1.0,
-            "Wheat or Maize": 15.0
+            "Wheat or Maize": 12.0
         },
         "Name": "Stuffed & Baked Fish",
         "SpoilTime": 36000.0,
@@ -11066,6 +12603,14 @@
         "Icon": "Sugarcane_Icon",
         "Name": "Sugarcane"
     },
+    "Sugarcane Cutting": {
+        "ClassName": "Consumable_Sugar_Sugarcane_Cutting_C",
+        "Icon": "SugarCane_Cutting_Icon",
+        "Ingredients": {
+            "Sugarcane": 1.0
+        },
+        "Name": "Sugarcane Cutting"
+    },
     "Sugars": {
         "ClassName": "Resource_Sap_Wax_C",
         "Icon": "Wax_Icon",
@@ -11095,7 +12640,7 @@
     },
     "Sulfurized Rock": {
         "ClassName": "Resource_Stone_Sulfurized_Rock_C",
-        "Icon": "Limestone_Icon",
+        "Icon": "Sulfurized_Rock_Icon",
         "Ingredients": {
             "Gold Coin": 50.0,
             "Stone": 50.0
@@ -11176,6 +12721,18 @@
         },
         "Name": "Swamp Purple Coloring"
     },
+    "Swarm House": {
+        "ClassName": "Structure_SwarmHouse_C",
+        "Icon": "ICON_Swarmhouse",
+        "Ingredients": {
+            "Fibers": 40.0,
+            "Hide": 10.0,
+            "Stone": 20.0,
+            "Thatch": 40.0,
+            "Wood": 20.0
+        },
+        "Name": "Swarm House"
+    },
     "Sweet Vegetable Cake": {
         "ClassName": "Consumable_SweetVeggieCake_C",
         "Icon": "TastyCake_Icon",
@@ -11218,6 +12775,18 @@
         },
         "Name": "Swivel Gun"
     },
+    "Swivel Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipSideTileSwivelRailingKrakenGeneral_C",
+        "Icon": "KrakenBallistaRailing",
+        "Ingredients": {
+            "Alloy": 98.0,
+            "Fibers": 250.0,
+            "Stone": 180.0,
+            "Thatch": 225.0,
+            "Wood": 550.0
+        },
+        "Name": "Swivel Ship Railing (Kraken)"
+    },
     "Sword": {
         "ClassName": "YarkWeaponSword_C",
         "Icon": "Item_Sword_Icon",
@@ -11245,6 +12814,14 @@
         "Icon": "Syrup_Icon",
         "Name": "Syrup"
     },
+    "Syrup Seed": {
+        "ClassName": "Consumable_Sugar_Syrup_Seed_C",
+        "Icon": "Syrup_Seed_Icon",
+        "Ingredients": {
+            "Syrup": 1.0
+        },
+        "Name": "Syrup Seed"
+    },
     "Tame Cargo Module": {
         "ClassName": "Structure_TameCargoModule_C",
         "Ingredients": {
@@ -11253,6 +12830,30 @@
             "Wood": 40.0
         },
         "Name": "Tame Cargo Module"
+    },
+    "Tame Cargo Ship Railing": {
+        "ClassName": "Structure_TameCargoRailing_C",
+        "Icon": "ICON_BoatBarn",
+        "Ingredients": {
+            "Alloy": 60.0,
+            "Fibers": 70.0,
+            "Hide": 50.0,
+            "Thatch": 100.0,
+            "Wood": 150.0
+        },
+        "Name": "Tame Cargo Ship Railing"
+    },
+    "Tame Hatchery": {
+        "ClassName": "Structure_TameHouse_Exotic_C",
+        "Icon": "ICON_TamehouseExotic",
+        "Ingredients": {
+            "Fibers": 80.0,
+            "Flint": 20.0,
+            "Keratinoid": 90.0,
+            "Stone": 300.0,
+            "Wood": 65.0
+        },
+        "Name": "Tame Hatchery"
     },
     "Tame House": {
         "ClassName": "Structure_TameHouse_C",
@@ -11314,13 +12915,13 @@
         "Icon": "Item_TaraNostriTreat_Icon",
         "Ingredients": {
             "Blackberry": 10.0,
-            "Egg!": 5.0,
+            "Egg": 3.0,
             "Mint": 5.0,
             "Salt": 3.0,
             "Saps": 5.0,
             "Schisandra": 10.0,
             "Strawberry": 10.0,
-            "Wheat": 20.0
+            "Wheat": 15.0
         },
         "Name": "Tara'Nosti Treat",
         "SpoilTime": 36000.0,
@@ -11511,6 +13112,14 @@
             }
         }
     },
+    "Thyme Cutting": {
+        "ClassName": "Consumable_Herb_Thyme_Cutting_C",
+        "Icon": "ThymeCutting_Icon",
+        "Ingredients": {
+            "Thyme": 1.0
+        },
+        "Name": "Thyme Cutting"
+    },
     "Tier 2 Cargo Saddle": {
         "ClassName": "Armor_SaddleHarness_Tier2_C",
         "Icon": "Item_FieldGunTrailer_Icon",
@@ -11544,6 +13153,14 @@
             "Organic Paste": 18.0
         },
         "Name": "Tier 2 Saddle"
+    },
+    "Tier 2 Sleigh Saddle": {
+        "ClassName": "Armor_SaddleSleigh_C",
+        "Icon": "Item_SleighCart_Icon",
+        "Ingredients": {
+            "Gold Coin": 2000.0
+        },
+        "Name": "Tier 2 Sleigh Saddle"
     },
     "Tier 3 Saddle": {
         "ClassName": "Armor_SaddleGeneric_Tier3_C",
@@ -11637,7 +13254,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -11693,18 +13310,6 @@
         },
         "Name": "Torpedo Launcher"
     },
-    "Torpedo Launcher Kraken Railing": {
-        "ClassName": "Structure_MidShipTileTorpedoRailingKrakenGeneral_C",
-        "Icon": "StandardRailingCannon",
-        "Ingredients": {
-            "Fibers": 130.0,
-            "Hide": 28.0,
-            "Metal": 14.0,
-            "Thatch": 85.0,
-            "Wood": 310.0
-        },
-        "Name": "Torpedo Launcher Kraken Railing"
-    },
     "Torpedo Launcher Ship Railing": {
         "ClassName": "Structure_MidShipTileTorpedoRailingRammingGeneral_C",
         "Icon": "StandardRailingCannon",
@@ -11716,6 +13321,81 @@
             "Wood": 310.0
         },
         "Name": "Torpedo Launcher Ship Railing"
+    },
+    "Torpedo Launcher Ship Railing (Kraken)": {
+        "ClassName": "Structure_MidShipTileTorpedoRailingKrakenGeneral_C",
+        "Icon": "StandardRailingCannon",
+        "Ingredients": {
+            "Fibers": 130.0,
+            "Hide": 28.0,
+            "Metal": 14.0,
+            "Thatch": 85.0,
+            "Wood": 310.0
+        },
+        "Name": "Torpedo Launcher Ship Railing (Kraken)"
+    },
+    "Toxic Compound": {
+        "ClassName": "Consumable_ToxicCompound_BASE_C",
+        "Icon": "CrudeOil_Icon",
+        "Name": "Toxic Compound",
+        "SpoilTime": 600.0,
+        "Type": "",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": -1.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 8.407790785948902e-44
+            }
+        }
+    },
+    "Toxic Flora": {
+        "ClassName": "Consumable_ToxicCompound_ToxicFlora_C",
+        "Icon": "ToxicMushroom_Icon",
+        "Name": "Toxic Flora",
+        "SpoilTime": 86400.0,
+        "Type": "",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": -1.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 8.407790785948902e-44
+            }
+        }
+    },
+    "Toxic Sludge": {
+        "ClassName": "Consumable_ToxicCompound_ToxicSludge_C",
+        "Icon": "ToxicSludge_Icon",
+        "Ingredients": {
+            "Nitro Fertilizer": 10.0
+        },
+        "Name": "Toxic Sludge",
+        "SpoilTime": 86400.0,
+        "Type": "",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": -1.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 8.407790785948902e-44
+            }
+        }
     },
     "Traditional Figure Head": {
         "ClassName": "StructureBP_FigureHead_Traditional_C",
@@ -11837,6 +13517,14 @@
             }
         }
     },
+    "Turmeric Seed": {
+        "ClassName": "Consumable_MedHerb_Turmeric_Seed_C",
+        "Icon": "TurmericSeed_Icon",
+        "Ingredients": {
+            "Turmeric": 1.0
+        },
+        "Name": "Turmeric Seed"
+    },
     "Turnip": {
         "ClassName": "Consumable_Vegetable_Turnip_C",
         "Icon": "Turnip_Icon",
@@ -11858,17 +13546,20 @@
         }
     },
     "Turnip Seed": {
-        "ClassName": "Consumable_Vegetable_Turnip_Seed_C",
+        "ClassName": "Consumable_Vegetable_Turnip_Seed_MC_C",
         "Icon": "Turnip_Seed_Icon",
+        "Ingredients": {
+            "Turnip": 1.0
+        },
         "Name": "Turnip Seed"
     },
     "Turtle Egg": {
-        "ClassName": "Consumable_Egg_Turtle_C",
+        "ClassName": "Consumable_Egg_Turtle_TO_C",
         "Icon": "Egg_Icon",
         "Name": "Turtle Egg",
         "SpoilTime": 691200.0,
         "Type": "",
-        "Weight": 2.0999999046325684,
+        "Weight": 0.699999988079071,
         "stats": {
             "Food": {
                 "add": 20.0,
@@ -11878,9 +13569,19 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 0.0
+                "addOverTimeSpeed": 1.2891945871788317e-43
+            },
+            "VitaminA": {
+                "add": 3.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 4.0
             }
         }
+    },
+    "Turtle Shell": {
+        "ClassName": "Resource_Keratanoid_TurtleShell_C",
+        "Icon": "TurtleShell_Icon",
+        "Name": "Turtle Shell"
     },
     "Turtle Ship": {
         "ClassName": "Ship_TurtleShip_C",
@@ -11889,6 +13590,7 @@
             "Fibers": 4400.0,
             "Metal": 72.0,
             "Thatch": 4400.0,
+            "Turtle Shell": 5000.0,
             "Wood": 5500.0
         },
         "Name": "Turtle Ship"
@@ -11917,12 +13619,17 @@
         "ClassName": "TwoHandedScythe_C",
         "Icon": "ICON_Scythe",
         "Ingredients": {
-            "Fibers": 8.0,
-            "Hide": 12.0,
-            "Metal": 32.0,
-            "Wood": 16.0
+            "Gold Coin": 50.0
         },
         "Name": "Two-Handed Scythe"
+    },
+    "Unicorn Costume Skin": {
+        "ClassName": "Skin_Unicorn_C",
+        "Icon": "Item_UnicornSkin_Icon",
+        "Ingredients": {
+            "Gold Coin": 1000.0
+        },
+        "Name": "Unicorn Costume"
     },
     "Unthinkable Delicacy": {
         "ClassName": "Consumable_UnthinkableDelicacy_C",
@@ -11935,8 +13642,8 @@
             "Mythos": 10.0,
             "Salt": 5.0,
             "Saps": 10.0,
-            "Vegetable": 50.0,
-            "Wheat or Maize": 50.0
+            "Vegetable": 30.0,
+            "Wheat or Maize": 30.0
         },
         "Name": "Unthinkable Delicacy",
         "SpoilTime": 36000.0,
@@ -11995,10 +13702,30 @@
             }
         }
     },
-    "Versebook": {
+    "Venom": {
+        "ClassName": "Consumable_ToxicCompound_Venom_C",
+        "Icon": "Venom_Icon",
+        "Name": "Venom",
+        "SpoilTime": 86400.0,
+        "Type": "",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": -1.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 8.407790785948902e-44
+            }
+        }
+    },
+    "Verse Book": {
         "ClassName": "WeaponVersebook_C",
         "Icon": "AODVersebook_ICON",
-        "Name": "Versebook"
+        "Name": "Verse Book"
     },
     "Vertical Electrical Cable": {
         "ClassName": "Structure_PowerCableVertical_C",
@@ -12063,7 +13790,7 @@
             "Health": {
                 "add": 0.0,
                 "addOverTime": false,
-                "addOverTimeSpeed": 3.923635700109488e-44
+                "addOverTimeSpeed": 1.2891945871788317e-43
             },
             "VitaminA": {
                 "add": 3.0,
@@ -12222,6 +13949,17 @@
         },
         "Name": "Water Reservoir"
     },
+    "Water Well": {
+        "ClassName": "Structure_WaterWell_MC_C",
+        "Icon": "WaterWell_Icon_MC",
+        "Ingredients": {
+            "Metal": 5.0,
+            "Organic Paste": 10.0,
+            "Stone": 30.0,
+            "Wood": 20.0
+        },
+        "Name": "Water Well"
+    },
     "Watercourse Green Coloring": {
         "ClassName": "Dye_WatercourseGreen_C",
         "Ingredients": {
@@ -12229,6 +13967,50 @@
             "Water": 1.0
         },
         "Name": "Watercourse Green Coloring"
+    },
+    "Watering Bucket": {
+        "ClassName": "WateringBucket_C",
+        "Icon": "WateringBucket_Icon",
+        "Ingredients": {
+            "Metal": 4.0,
+            "Oil": 4.0,
+            "Thatch": 24.0,
+            "Wood": 24.0
+        },
+        "Name": "Watering Bucket"
+    },
+    "Watermelon": {
+        "ClassName": "Consumable_Fruit_Watermelon_C",
+        "Icon": "Watermelon_Icon",
+        "Name": "Watermelon",
+        "SpoilTime": 8640.0,
+        "Type": "Fruit",
+        "Weight": 0.07000000029802322,
+        "stats": {
+            "Food": {
+                "add": 5.0,
+                "addOverTime": true,
+                "addOverTimeSpeed": 3.0
+            },
+            "Health": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 0.0
+            },
+            "Torpidity": {
+                "add": 0.0,
+                "addOverTime": false,
+                "addOverTimeSpeed": 1.7376100957627732e-43
+            }
+        }
+    },
+    "Watermelon Seed": {
+        "ClassName": "Consumable_Fruit_Watermelon_Seed_C",
+        "Icon": "WatermelonSeeds_Icon",
+        "Ingredients": {
+            "Watermelon": 1.0
+        },
+        "Name": "Watermelon Seed"
     },
     "Waterskin": {
         "ClassName": "Consumable_WaterskinRefill_C",
@@ -12271,8 +14053,11 @@
         }
     },
     "Wheat Seed": {
-        "ClassName": "Consumable_Vegetable_Wheat_Seed_C",
+        "ClassName": "Consumable_Vegetable_Wheat_Seed_MC_C",
         "Icon": "Wheat_Seed_Icon",
+        "Ingredients": {
+            "Wheat": 1.0
+        },
         "Name": "Wheat Seed"
     },
     "Wheat or Maize": {
@@ -12314,6 +14099,16 @@
                 "addOverTimeSpeed": 1.7376100957627732e-43
             }
         }
+    },
+    "When used, sets the ship the player is standing on to have the following quality and experience:\n\nShip Quality: 100%\nExperience: 0": {
+        "ClassName": "ShipDismantleToken_CS_C",
+        "Icon": "ShipDismantleToken_Icon_CS",
+        "Name": "When used, sets the ship the player is standing on to have the following quality and experience:\n\nShip Quality: 100%\nExperience: 0"
+    },
+    "When used, sets the ship the player is standing on to max quality (200%)": {
+        "ClassName": "ShipQualityToken_CS_C",
+        "Icon": "ShipQualityToken_Icon_CS",
+        "Name": "When used, sets the ship the player is standing on to max quality (200%)"
     },
     "White Coloring": {
         "ClassName": "Dye_White_C",
@@ -12632,6 +14427,9 @@
     "Witch's Hat Skin": {
         "ClassName": "Skin_WitchHatDino_C",
         "Icon": "WitchHat_Icon",
+        "Ingredients": {
+            "Gold Coin": 200.0
+        },
         "Name": "Witch's Hat"
     },
     "Wood": {
@@ -12989,9 +14787,7 @@
         "ClassName": "Furniture_Wreath_C",
         "Icon": "Wreath_Icon",
         "Ingredients": {
-            "Fibers": 20.0,
-            "Thatch": 20.0,
-            "Wood": 10.0
+            "Gold Coin": 100.0
         },
         "Name": "Wreath"
     },
@@ -13014,6 +14810,14 @@
                 "addOverTimeSpeed": 8.407790785948902e-44
             }
         }
+    },
+    "Yarrow Seed": {
+        "ClassName": "Consumable_MedHerb_Yarrow_Seed_C",
+        "Icon": "YarrowSeed_Icon",
+        "Ingredients": {
+            "Yarrow": 1.0
+        },
+        "Name": "Yarrow Seed"
     },
     "Yellow Coloring": {
         "ClassName": "Dye_Yellow_C",
