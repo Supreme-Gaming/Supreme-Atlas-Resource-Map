@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.issue.pull_request.head.sha }}
       - name: Prepare target folder
         run: |
           if [ -d "${{secrets.DEPLOY_PATH}}" ]; then 
