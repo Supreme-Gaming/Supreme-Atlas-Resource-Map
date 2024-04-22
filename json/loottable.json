@@ -226,6 +226,38 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Cyclops_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cyclops Eye"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -267,6 +299,38 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Gorgon_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gorgon Hair"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -986,12 +1050,12 @@
                     "Cooked Fish",
                     "Cooked Meat",
                     "Acai",
-                    "Acerolla",
+                    "Acerola",
                     "Arctic Raspberry",
                     "Bilberry",
                     "Blackberry",
                     "Elderberry",
-                    "Lignonberry",
+                    "Lingonberry",
                     "Schisandra",
                     "Sea Grapes",
                     "Strawberry",
@@ -1583,7 +1647,7 @@
                     "Crude Oil",
                     "Fish Oil",
                     "Mineral Oil",
-                    "Naptha",
+                    "Naphtha",
                     "Shale Oil",
                     "Flake Salt",
                     "Iodine",
@@ -1992,7 +2056,7 @@
                     "Food Larder",
                     "Diving Attachment",
                     "Ship Cargo Rack",
-                    "Ship Tame Cargo Railing"
+                    "Tame Cargo Ship Railing"
                 ],
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 2.0,
@@ -2050,12 +2114,12 @@
                 "ChanceForItem": 1.0,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: Of Sea and Sails",
-                    "Accordian: Of Sea and Sails",
-                    "Accordian: Of Sea and Sails",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
                     "Accordion: She Heard the Siren's Call",
                     "Accordion: She Heard the Siren's Call",
                     "Accordion: She Heard the Siren's Call",
@@ -2084,12 +2148,12 @@
                 "ChanceForItem": 1.0,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: A Mockatoo Once Told Me",
-                    "Accordian: Of Sea and Sails",
-                    "Accordian: Of Sea and Sails",
-                    "Accordian: Of Sea and Sails",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: A Mockatoo Once Told Me",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
+                    "Accordion: Of Sea and Sails",
                     "Accordion: She Heard the Siren's Call",
                     "Accordion: She Heard the Siren's Call",
                     "Accordion: She Heard the Siren's Call",
@@ -2110,6 +2174,23 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_Mythos_Shipwreck_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 150.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 15.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.659999966621399,
+                "Weight": 0.5
             }
         ],
         "LootItemSet_OffensiveStructures_Brigantine_C": [
@@ -2228,6 +2309,23 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_GalleonEssence_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Solidified Essence"
+                ],
+                "MaxQuality": 5.0,
+                "MaxQuantity": 50.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.100000023841858,
                 "Weight": 1.0
             }
         ],
@@ -2419,27 +2517,20 @@
                 "ChanceForItem": 1.0,
                 "ForceBlueprint": 1,
                 "Items": [
-                    "Large Speed Sail",
-                    "Medium Speed Sail",
-                    "Small Speed Sail",
-                    "Large Handling Sail",
-                    "Medium Handling Sail",
-                    "Small Handling Sail",
-                    "Large Weight Sail",
-                    "Medium Weight Sail",
-                    "Small Weight Sail",
-                    "Medium Wood Ship Deck",
-                    "Large Wood Ship Deck",
-                    "Medium Wood Plank",
-                    "Large Wood Plank",
-                    "Medium Wood Gunport",
-                    "Large Wood Gunport",
-                    "Wood Ceiling",
                     "General Tile Module",
                     "General Rowing Module",
-                    "General Gunport Module"
+                    "General Gunport Module",
+                    "Single Gunport Module",
+                    "Ballista Ship Railing",
+                    "Cannon Ship Railing",
+                    "Catapult Ship Railing",
+                    "Large Cannon Ship Railing",
+                    "Cargo Rack Ship Railing",
+                    "Dinghy Hangar Ship Railing",
+                    "Tame Cargo Ship Railing",
+                    "Diving Platform Ship Railing"
                 ],
-                "MaxQuality": 0.6600000262260437,
+                "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.6600000262260437,
                 "MinQuantity": 1.0,
@@ -2471,7 +2562,7 @@
                 ],
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 1.0,
-                "MinQuality": 0.4000000059604645,
+                "MinQuality": 0.20000000298023224,
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
@@ -2484,19 +2575,18 @@
                 "ChanceForItem": 1.0,
                 "ForceBlueprint": 1,
                 "Items": [
-                    "Large Speed Sail",
-                    "Medium Speed Sail",
-                    "Large Handling Sail",
-                    "Medium Handling Sail",
-                    "Large Weight Sail",
-                    "Medium Weight Sail",
-                    "Medium Wood Ship Deck",
-                    "Large Wood Ship Deck",
-                    "Medium Wood Plank",
-                    "Large Wood Plank",
-                    "Medium Wood Gunport",
-                    "Large Wood Gunport",
-                    "Wood Ceiling"
+                    "General Tile Module",
+                    "General Rowing Module",
+                    "General Gunport Module",
+                    "Single Gunport Module",
+                    "Ballista Ship Railing",
+                    "Cannon Ship Railing",
+                    "Catapult Ship Railing",
+                    "Large Cannon Ship Railing",
+                    "Cargo Rack Ship Railing",
+                    "Dinghy Hangar Ship Railing",
+                    "Tame Cargo Ship Railing",
+                    "Diving Platform Ship Railing"
                 ],
                 "MaxQuality": 0.6600000262260437,
                 "MaxQuantity": 1.0,
