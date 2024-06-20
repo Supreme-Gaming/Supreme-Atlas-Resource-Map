@@ -3432,6 +3432,17 @@
             }
         }
     },
+    "Drowned Cannon": {
+        "ClassName": "Structure_Drowned_MediumCannon_C",
+        "Icon": "Drowned_Cannon_icon",
+        "Ingredients": {
+            "Alloy": 35.0,
+            "Fibers": 15.0,
+            "Hide": 25.0,
+            "Wood": 56.0
+        },
+        "Name": "Drowned Cannon"
+    },
     "Drydock Lever": {
         "ClassName": "Structure_DrydockLever_CS_C",
         "Icon": "DrydockLever_Icon_CS",
@@ -10428,16 +10439,6 @@
         "ClassName": "StructureBase_Ladder_Retractable_C",
         "Icon": "MenuArrowRight",
         "Name": "Retractable Ladder"
-    },
-    "Reusable Bola": {
-        "ClassName": "WeaponBola_RT_C",
-        "Icon": "Item_Bola_Icon_RT",
-        "Ingredients": {
-            "Fibers": 36.0,
-            "Stone": 9.0,
-            "Thatch": 10.0
-        },
-        "Name": "Reusable Bola"
     },
     "Reusable Climbing Pick": {
         "ClassName": "WeaponClimbPick_RT_C",

@@ -2,66 +2,66 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 1536705.38,
-				"worldY": 7094341
+				"controlPointsDistance": 510802,
+				"rotation": 241.9018,
+				"strength": 1,
+				"width": 1000,
+				"worldX": 6238057,
+				"worldY": 9753226
 			},
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 4950520,
-				"worldY": 7111724
+				"controlPointsDistance": 86946.73,
+				"rotation": -88.1276245,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 6243090.5,
+				"worldY": 8598092
 			},
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 8304296.5,
-				"worldY": 7103859
+				"controlPointsDistance": 412340.844,
+				"rotation": 184.064392,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 6122098.5,
+				"worldY": 7220102.5
 			}
 		],
-		"PathId": 1,
-		"PathName": "South - East to West",
+		"PathId": 7,
+		"PathName": "South - North to highway",
 		"StartInterpolatingOceanColorAtPercentage": 1,
 		"isLooping": false,
 		"isLoopingAroundWorld": false,
-		"reverseDir": true
+		"reverseDir": false
 	},
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 1510592.63,
-				"worldY": 2716565.5
+				"controlPointsDistance": 347907.563,
+				"rotation": -557.687,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3526087.75,
+				"worldY": 7212498.5
 			},
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 4915913.5,
-				"worldY": 2695879.5
+				"controlPointsDistance": 382035.656,
+				"rotation": 74.67523,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3346488.5,
+				"worldY": 8561753
 			},
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 0,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 8312284.5,
-				"worldY": 2700991
+				"controlPointsDistance": 683190.5,
+				"rotation": 62.0428734,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3572431.5,
+				"worldY": 9758459
 			}
 		],
-		"PathId": 2,
-		"PathName": "North - East to West",
+		"PathId": 8,
+		"PathName": "North - South leave highway",
 		"StartInterpolatingOceanColorAtPercentage": 1,
 		"isLooping": false,
 		"isLoopingAroundWorld": false,
@@ -71,31 +71,31 @@
 		"Nodes": [
 			{
 				"controlPointsDistance": 70000,
-				"rotation": -274.7409,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 8318800.5,
-				"worldY": 2679794.75
+				"rotation": 0,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 34957.21,
+				"worldY": 5713236.5
 			},
 			{
 				"controlPointsDistance": 70000,
-				"rotation": 93.3664551,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 8292684.5,
-				"worldY": 4897745.5
+				"rotation": 0,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 624847.2,
+				"worldY": 5721294
 			},
 			{
-				"controlPointsDistance": 70000,
-				"rotation": 94.39871,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 8302908,
-				"worldY": 7101669.5
+				"controlPointsDistance": 250371.9,
+				"rotation": -89.364975,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 1469176.5,
+				"worldY": 5559954.5
 			}
 		],
-		"PathId": 4,
-		"PathName": "East - North to South",
+		"PathId": 9,
+		"PathName": "West - East to highway",
 		"StartInterpolatingOceanColorAtPercentage": 1,
 		"isLooping": false,
 		"isLoopingAroundWorld": false,
@@ -104,35 +104,213 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 132642.281,
-				"rotation": -267.510437,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 1489986.88,
-				"worldY": 2696666
+				"controlPointsDistance": 299988.219,
+				"rotation": 628.755066,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 1459697.25,
+				"worldY": 3163797.5
 			},
 			{
 				"controlPointsDistance": 70000,
-				"rotation": -272.223938,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 1502806.5,
-				"worldY": 4897746
+				"rotation": 181.991272,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 667688.8,
+				"worldY": 2917907.75
 			},
 			{
 				"controlPointsDistance": 70000,
+				"rotation": -178.781128,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 34427.5938,
+				"worldY": 2902031.5
+			}
+		],
+		"PathId": 10,
+		"PathName": "East - West leave highway",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 249634.688,
+				"rotation": 89.70987,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8323060,
+				"worldY": 5378639
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 9104505,
+				"worldY": 5778394.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 9765452,
+				"worldY": 5783220.5
+			}
+		],
+		"PathId": 11,
+		"PathName": "West - East Leave Highway",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 77880.39,
+				"rotation": -181.118439,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 9766426,
+				"worldY": 2870084.75
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 177.2033,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8960887,
+				"worldY": 2873527.75
+			},
+			{
+				"controlPointsDistance": 226645.516,
+				"rotation": 449.011932,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8324910,
+				"worldY": 3123300.25
+			}
+		],
+		"PathId": 12,
+		"PathName": "East - West to Highway",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 110393.8,
 				"rotation": 90,
-				"strength": 4,
-				"width": 3000,
-				"worldX": 1492266.63,
-				"worldY": 7098478.5
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3516798.75,
+				"worldY": 35969.89
+			},
+			{
+				"controlPointsDistance": 265832.219,
+				"rotation": 95.6486,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3230557.25,
+				"worldY": 991488.7
+			},
+			{
+				"controlPointsDistance": 278248.9,
+				"rotation": 2.5759964,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 3751467.75,
+				"worldY": 2644379.75
 			}
 		],
-		"PathId": 6,
-		"PathName": "West - South to North",
+		"PathId": 17,
+		"PathName": "North - South to Highway",
 		"StartInterpolatingOceanColorAtPercentage": 1,
 		"isLooping": false,
 		"isLoopingAroundWorld": false,
-		"reverseDir": true
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 857374.438,
+				"rotation": -0.777121544,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 5735873,
+				"worldY": 2632834.75
+			},
+			{
+				"controlPointsDistance": 161005.859,
+				"rotation": -92.4366455,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 6026795.5,
+				"worldY": 676565.4
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -86.95602,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 6244084,
+				"worldY": 37892.5547
+			}
+		],
+		"PathId": 18,
+		"PathName": "South - North leave highway",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 72466.9,
+				"rotation": -8.859558,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 1486332.5,
+				"worldY": 2676717.25
+			},
+			{
+				"controlPointsDistance": 120193.492,
+				"rotation": 89.6350555,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8323829,
+				"worldY": 2689822.25
+			},
+			{
+				"controlPointsDistance": 120022.281,
+				"rotation": 131.534744,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8267081,
+				"worldY": 7149752
+			},
+			{
+				"controlPointsDistance": 187880.344,
+				"rotation": -90.79414,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 1491833,
+				"worldY": 7096793
+			}
+		],
+		"PathId": 19,
+		"PathName": "Main Highway",
+		"StartInterpolatingOceanColorAtPercentage": 1,
+		"isLooping": true,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
 	}
 ]
