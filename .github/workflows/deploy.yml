@@ -1,5 +1,6 @@
-on: 
+on:
   release:
+    types: [published]
 
 jobs:
   check-path:
