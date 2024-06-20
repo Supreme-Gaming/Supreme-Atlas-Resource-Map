@@ -2160,6 +2160,22 @@
             "TakeAnythingAsGround": false,
             "UseFenceFoundation": false
         },
+        "Default__MagicFlask_Singleton_New_C": {
+            "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
+            "DecayTimeDays": 10.0,
+            "DecayTimeNoFlagDays": 0.0833333358168602,
+            "ForceGroundForFoundation": false,
+            "ForcePlacingOnGround": false,
+            "FoundationRequiresGroundTrace": false,
+            "IsFenceFoundation": false,
+            "IsFloor": false,
+            "IsFoundation": false,
+            "IsWall": false,
+            "MaximumFoundationSupport2DBuildDistance": 650.0,
+            "PreventPlacingNearEnemyRadius": 2000.0,
+            "TakeAnythingAsGround": false,
+            "UseFenceFoundation": false
+        },
         "Default__Market_C": {
             "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
             "DecayTimeDays": 10.0,
@@ -16512,6 +16528,22 @@
             "TakeAnythingAsGround": false,
             "UseFenceFoundation": false
         },
+        "Default__StructureDrownedMediumCannonBP_C": {
+            "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
+            "DecayTimeDays": 10.0,
+            "DecayTimeNoFlagDays": 0.0833333358168602,
+            "ForceGroundForFoundation": false,
+            "ForcePlacingOnGround": true,
+            "FoundationRequiresGroundTrace": false,
+            "IsFenceFoundation": false,
+            "IsFloor": false,
+            "IsFoundation": false,
+            "IsWall": false,
+            "MaximumFoundationSupport2DBuildDistance": 650.0,
+            "PreventPlacingNearEnemyRadius": 2000.0,
+            "TakeAnythingAsGround": false,
+            "UseFenceFoundation": false
+        },
         "Default__StructureItemContainerAutoGenerateItemsBaseBP_C": {
             "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
             "DecayTimeDays": 10.0,
@@ -17377,6 +17409,22 @@
             "UseFenceFoundation": false
         },
         "EventBoosts_Singleton_C_0": {
+            "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
+            "DecayTimeDays": 10.0,
+            "DecayTimeNoFlagDays": 0.0833333358168602,
+            "ForceGroundForFoundation": false,
+            "ForcePlacingOnGround": false,
+            "FoundationRequiresGroundTrace": false,
+            "IsFenceFoundation": false,
+            "IsFloor": false,
+            "IsFoundation": false,
+            "IsWall": false,
+            "MaximumFoundationSupport2DBuildDistance": 650.0,
+            "PreventPlacingNearEnemyRadius": 2000.0,
+            "TakeAnythingAsGround": false,
+            "UseFenceFoundation": false
+        },
+        "MagicFlask_Singleton_New_C_0": {
             "AdditionalFoundationSupportDistanceForLinkedStructures": 0.0,
             "DecayTimeDays": 10.0,
             "DecayTimeNoFlagDays": 0.0833333358168602,
