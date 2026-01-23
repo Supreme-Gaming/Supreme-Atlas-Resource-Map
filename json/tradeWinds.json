@@ -14,16 +14,16 @@
 				"rotation": -88.1276245,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 6243090.5,
-				"worldY": 8598092
+				"worldX": 6203868.5,
+				"worldY": 8584250
 			},
 			{
-				"controlPointsDistance": 412340.844,
-				"rotation": 184.064392,
+				"controlPointsDistance": 153660.984,
+				"rotation": 203.718216,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 6122098.5,
-				"worldY": 7220102.5
+				"worldX": 6266764.5,
+				"worldY": 7312643.5
 			}
 		],
 		"PathId": 7,
@@ -36,12 +36,12 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 347907.563,
-				"rotation": -557.687,
+				"controlPointsDistance": 70000,
+				"rotation": -588.4261,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 3526087.75,
-				"worldY": 7212498.5
+				"worldX": 3370312.75,
+				"worldY": 7362291.5
 			},
 			{
 				"controlPointsDistance": 382035.656,
@@ -86,12 +86,12 @@
 				"worldY": 5721294
 			},
 			{
-				"controlPointsDistance": 250371.9,
-				"rotation": -89.364975,
+				"controlPointsDistance": 70000,
+				"rotation": -2.07899475,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 1469176.5,
-				"worldY": 5559954.5
+				"worldX": 1308959.25,
+				"worldY": 5712480.5
 			}
 		],
 		"PathId": 9,
@@ -104,28 +104,28 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 299988.219,
-				"rotation": 628.755066,
+				"controlPointsDistance": 70000,
+				"rotation": 543.8666,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 1459697.25,
-				"worldY": 3163797.5
+				"worldX": 1374845.75,
+				"worldY": 2981920.5
 			},
 			{
 				"controlPointsDistance": 70000,
 				"rotation": 181.991272,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 667688.8,
-				"worldY": 2917907.75
+				"worldX": 665381.7,
+				"worldY": 2968665.5
 			},
 			{
 				"controlPointsDistance": 70000,
 				"rotation": -178.781128,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 34427.5938,
-				"worldY": 2902031.5
+				"worldX": 34427.59,
+				"worldY": 2978167.5
 			}
 		],
 		"PathId": 10,
@@ -138,12 +138,12 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 249634.688,
-				"rotation": 89.70987,
+				"controlPointsDistance": 70000,
+				"rotation": 26.670269,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 8323060,
-				"worldY": 5378639
+				"worldX": 8317933.5,
+				"worldY": 5727784
 			},
 			{
 				"controlPointsDistance": 70000,
@@ -176,24 +176,24 @@
 				"rotation": -181.118439,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 9766426,
-				"worldY": 2870084.75
+				"worldX": 9763149,
+				"worldY": 2924590.5
 			},
 			{
 				"controlPointsDistance": 70000,
 				"rotation": 177.2033,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 8960887,
-				"worldY": 2873527.75
+				"worldX": 9185834,
+				"worldY": 2897753
 			},
 			{
-				"controlPointsDistance": 226645.516,
-				"rotation": 449.011932,
+				"controlPointsDistance": 140084.875,
+				"rotation": 511.330872,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 8324910,
-				"worldY": 3123300.25
+				"worldX": 8521017,
+				"worldY": 2950265.5
 			}
 		],
 		"PathId": 12,
@@ -222,12 +222,12 @@
 				"worldY": 991488.7
 			},
 			{
-				"controlPointsDistance": 278248.9,
-				"rotation": 2.5759964,
+				"controlPointsDistance": 134736.438,
+				"rotation": 51.19684,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 3751467.75,
-				"worldY": 2644379.75
+				"worldX": 3531692.5,
+				"worldY": 2460834.75
 			}
 		],
 		"PathId": 17,
@@ -240,16 +240,16 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 857374.438,
-				"rotation": -0.777121544,
+				"controlPointsDistance": 630313.3,
+				"rotation": -46.0014076,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 5735873,
-				"worldY": 2632834.75
+				"worldX": 6106038,
+				"worldY": 2473386.75
 			},
 			{
-				"controlPointsDistance": 161005.859,
-				"rotation": -92.4366455,
+				"controlPointsDistance": 268209.25,
+				"rotation": -103.746574,
 				"strength": 3,
 				"width": 6000,
 				"worldX": 6026795.5,
@@ -278,8 +278,16 @@
 				"rotation": -8.859558,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 1486332.5,
-				"worldY": 2676717.25
+				"worldX": 1621299.75,
+				"worldY": 2683638.75
+			},
+			{
+				"controlPointsDistance": 0,
+				"rotation": 0,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 4925461,
+				"worldY": 2671926
 			},
 			{
 				"controlPointsDistance": 120193.492,
@@ -290,12 +298,28 @@
 				"worldY": 2689822.25
 			},
 			{
+				"controlPointsDistance": 130593.711,
+				"rotation": 89.62795,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 8250466,
+				"worldY": 4929592
+			},
+			{
 				"controlPointsDistance": 120022.281,
 				"rotation": 131.534744,
 				"strength": 3,
 				"width": 6000,
-				"worldX": 8267081,
-				"worldY": 7149752
+				"worldX": 8126924,
+				"worldY": 7170516
+			},
+			{
+				"controlPointsDistance": 101595.539,
+				"rotation": -180.536682,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 4882917.5,
+				"worldY": 7120388
 			},
 			{
 				"controlPointsDistance": 187880.344,
@@ -304,6 +328,14 @@
 				"width": 6000,
 				"worldX": 1491833,
 				"worldY": 7096793
+			},
+			{
+				"controlPointsDistance": 83094.22,
+				"rotation": -92.48955,
+				"strength": 3,
+				"width": 6000,
+				"worldX": 1554259,
+				"worldY": 4971830
 			}
 		],
 		"PathId": 19,

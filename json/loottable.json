@@ -1,5 +1,7 @@
 {
     "Loot": {
+        "AlphaLootObjectEasier_SC_C": null,
+        "AlphaLootObject_SC_C": null,
         "DinoDropInventoryComponent_BP_Base_C": null,
         "DinoDropInventoryComponent_Carnivore_Huge_C": null,
         "DinoDropInventoryComponent_Carnivore_Huge_Mega_C": null,
@@ -65,6 +67,23 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Gold_GiantSquidTrench_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Squid Tentacle"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -209,6 +228,23 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Buwaya_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Cyclops_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -226,7 +262,73 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Cyclops_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cyclops Eye"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Eber_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_FireElementalBoss_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -277,6 +379,38 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Gorgon_TO_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gorgon Hair"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_Hydra_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -294,7 +428,58 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Mythical_Kekada_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_RockElementalBoss_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Mythical_RockElemental_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_Sentinel_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -866,7 +1051,13 @@
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Cloth Hat"
+                    "Cloth Hat",
+                    "Hide Hat",
+                    "Fur Cap",
+                    "Founder's Hide Hat",
+                    "Hide Officer Hat",
+                    "HidePirate Hat",
+                    "Eye Patch"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -881,7 +1072,8 @@
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Cloth Gloves"
+                    "Cloth Gloves",
+                    "Hide Gloves"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -896,7 +1088,8 @@
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Cloth Boots"
+                    "Cloth Boots",
+                    "Hide Boots"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -922,10 +1115,11 @@
         "HumanDinoInventory_Fighter_C_70": [
             {
                 "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
+                "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Sword"
+                    "Cloth Shirt",
+                    "Cloth Shirt"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -937,15 +1131,230 @@
             },
             {
                 "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 0.15000000596046448,
+                "ChanceForItem": 1.0,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Wooden Shield"
+                    "Cloth Pants",
+                    "Cloth Pants"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
                 "MinQuality": 1.0,
                 "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.5,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Hat",
+                    "Hide Hat",
+                    "Fur Cap",
+                    "Founder's Hide Hat",
+                    "Hide Officer Hat",
+                    "HidePirate Hat",
+                    "Eye Patch"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.5,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Gloves",
+                    "Hide Gloves"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.5,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Boots",
+                    "Hide Boots"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishingCatfish_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Catfish"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 2.5,
+                "MinQuality": 1.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.2000000476837158,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishingJellyfish_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Jellyfish"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishingMarlin_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Marlin"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 2.5,
+                "MinQuality": 1.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.2000000476837158,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishingSeaBass_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "SeaBass"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 2.5,
+                "MinQuality": 1.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.2000000476837158,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishingTuna_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Tuna"
+                ],
+                "MaxQuality": 1.2000000476837158,
+                "MaxQuantity": 2.5,
+                "MinQuality": 1.0,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.2000000476837158,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatFishing_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "SeaBass"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Tuna"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Marlin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_AdditionalMeatTigerShark_C": [
+            {
+                "ChanceForBlueprint": 0.5,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Tiger Shark"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 2.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.5,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
@@ -1448,6 +1857,304 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_Fishing2_SC_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Fish Meat",
+                    "Prime Fish Meat",
+                    "Fish Oil",
+                    "Scale",
+                    "Gold Coin",
+                    "Mythos",
+                    "Crustacean Meat",
+                    "Squid Tentacle",
+                    "Innards",
+                    "Residue",
+                    "Cursed Wood",
+                    "Cursed Bone Chips"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.550000011920929
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Tier 3 Saddle",
+                    "Supreme Crab Platform Saddle",
+                    "Suprme Seahorse Saddle",
+                    "Boulder",
+                    "Minni Ball",
+                    "Crossbow Bolt",
+                    "Grape Shot",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 20.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 5.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.30000001192092896
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Supreme Tier 3 Saddle",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Crab Platform Saddle",
+                    "Improved Ship Cannon",
+                    "Klinger Additional Large Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Wood Gun Mount",
+                    "Additional Ceiling",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Carraca Wood Wall",
+                    "Supreme Large Handling Sail",
+                    "Supreme Large Speed Sail",
+                    "Supreme Large Weight Sail",
+                    "Supreme Large Wood Ship Deck",
+                    "Supreme Medium Wood Ship Deck",
+                    "Supreme Small Wood Ship Deck",
+                    "Supreme Large Wood Gunport",
+                    "Supreme Large Wood Plank",
+                    "Supreme Medium Wood Gunport",
+                    "Supreme Medium Wood Plank",
+                    "Supreme Small Wood Plank",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 30.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 5.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.15000000596046448
+            }
+        ],
+        "LootItemSet_Fishing3_SC_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Fish Meat",
+                    "Prime Fish Meat",
+                    "Fish Oil",
+                    "Scale",
+                    "Gold Coin",
+                    "Mythos",
+                    "Crustacean Meat",
+                    "Squid Tentacle",
+                    "Innards",
+                    "Residue",
+                    "Cursed Wood",
+                    "Cursed Bone Chips"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.5
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Tier 3 Saddle",
+                    "Suprme Seahorse Saddle",
+                    "Supreme Crab Platform Saddle",
+                    "Boulder",
+                    "Minni Ball",
+                    "Crossbow Bolt",
+                    "Grape Shot",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 20.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 5.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.30000001192092896
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Supreme Tier 3 Saddle",
+                    "Supreme Tier 2 Saddle",
+                    "Suprme Seahorse Saddle",
+                    "Klinger Additional Medium Gunport",
+                    "Wood Gun Mount",
+                    "Additional Ceiling",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Carraca Wood Wall",
+                    "Supreme Large Handling Sail",
+                    "Supreme Large Speed Sail",
+                    "Supreme Large Weight Sail",
+                    "Supreme Large Wood Ship Deck",
+                    "Supreme Medium Wood Ship Deck",
+                    "Supreme Small Wood Ship Deck",
+                    "Supreme Large Wood Gunport",
+                    "Supreme Large Wood Plank",
+                    "Supreme Medium Wood Gunport",
+                    "Supreme Medium Wood Plank",
+                    "Supreme Small Wood Plank",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 45.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 5.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.20000000298023224
+            }
+        ],
+        "LootItemSet_Fishing_SC_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Fish Meat",
+                    "Prime Fish Meat",
+                    "Fish Oil",
+                    "Scale",
+                    "Gold Coin",
+                    "Mythos",
+                    "Crustacean Meat",
+                    "Squid Tentacle",
+                    "Innards",
+                    "Rex's Ragweed Cannabis Seed",
+                    "Residue",
+                    "Cursed Wood",
+                    "Cursed Bone Chips"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.6000000238418579
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Shirt",
+                    "Cloth Pants",
+                    "Cloth Gloves",
+                    "Cloth Boots",
+                    "Cloth Hat",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Tier 3 Saddle",
+                    "Supreme Crab Platform Saddle",
+                    "Supreme Grand Tortugar Platform Saddle",
+                    "Boulder",
+                    "Minni Ball",
+                    "Crossbow Bolt",
+                    "Grape Shot",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 20.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.25
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Hide Shirt",
+                    "Hide Pants",
+                    "Hide Gloves",
+                    "Hide Boots",
+                    "Hide Hat",
+                    "Supreme Tier 3 Saddle",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Grand Tortugar Platform Saddle",
+                    "Improved Ship Cannon",
+                    "Klinger Additional Large Gunport",
+                    "Naval Mortar",
+                    "Additional Ceiling",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Carraca Wood Wall",
+                    "Supreme Large Handling Sail",
+                    "Supreme Large Speed Sail",
+                    "Supreme Large Weight Sail",
+                    "Supreme Large Wood Ship Deck",
+                    "Supreme Medium Wood Ship Deck",
+                    "Supreme Small Wood Ship Deck",
+                    "Supreme Large Wood Gunport",
+                    "Supreme Large Wood Plank",
+                    "Supreme Medium Wood Gunport",
+                    "Supreme Medium Wood Plank",
+                    "Supreme Small Wood Plank",
+                    "Supreme Ship Cannon",
+                    "Supreme Large Cannon"
+                ],
+                "MaxQuality": 20.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.15000000596046448
             }
         ],
         "LootItemSet_FloatsamT1_Foods_C": [
@@ -2136,9 +2843,18 @@
                 "ForceBlueprint": 1,
                 "Items": [
                     "Swivel Gun",
-                    "Ship Cannon",
-                    "Large Cannon",
-                    "Ballista Turret"
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
                 ],
                 "MaxQuality": 0.6899999976158142,
                 "MaxQuantity": 1.0,
@@ -2154,9 +2870,18 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Swivel Gun",
-                    "Ship Cannon",
-                    "Large Cannon",
-                    "Ballista Turret"
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
                 ],
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 1.0,
@@ -2172,11 +2897,13 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Grape Shot",
-                    "Large Cannon Ball",
                     "Bar Shot",
                     "Medium Cannon Ball",
                     "Liquid Flame",
-                    "Ballista Bolt"
+                    "Ballista Bolt",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Mega Ballista Bolt"
                 ],
                 "MaxQuality": 0.6899999976158142,
                 "MaxQuantity": 2.0,
@@ -2184,6 +2911,21 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Captain Cursed Bone"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
                 "Weight": 1.0
             }
         ],
@@ -2248,6 +2990,184 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_OffensiveStructures_Caravela_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Small Cannon",
+                    "Cannon of the Damned"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Small Cannon",
+                    "Cannon of the Damned"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Ballista Bolt",
+                    "Cannon Bolt",
+                    "Small Cannon Ball"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 2.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Navigator Cursed Bone"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 0.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_Carraca_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Large Cannon Ball",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Mortar Shot",
+                    "Ballista Bolt",
+                    "Medium Cannon Ball",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Explosive Barrel",
+                    "Mega Ballista Bolt",
+                    "Grenade",
+                    "Blackjack",
+                    "Crossbow Bolt"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Captain Cursed Bone"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_OffensiveStructures_GalleonEssence_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -2272,14 +3192,25 @@
                 "ForceBlueprint": 1,
                 "Items": [
                     "Swivel Gun",
-                    "Ship Cannon",
-                    "Large Cannon",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
                     "Mortar",
-                    "Ballista Turret"
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon",
+                    "Optimized Puckle",
+                    "Archery Tower"
                 ],
-                "MaxQuality": 0.6899999976158142,
+                "MaxQuality": 0.6499999761581421,
                 "MaxQuantity": 1.0,
-                "MinQuality": 0.6899999976158142,
+                "MinQuality": 0.4000000059604645,
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
@@ -2291,12 +3222,23 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Swivel Gun",
-                    "Ship Cannon",
-                    "Large Cannon",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
                     "Mortar",
-                    "Ballista Turret"
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon",
+                    "Optimized Puckle",
+                    "Archery Tower"
                 ],
-                "MaxQuality": 0.4000000059604645,
+                "MaxQuality": 0.6499999761581421,
                 "MaxQuantity": 1.0,
                 "MinQuality": 0.4000000059604645,
                 "MinQuantity": 1.0,
@@ -2316,7 +3258,14 @@
                     "Liquid Flame",
                     "Mortar Shot",
                     "Ballista Bolt",
-                    "Medium Cannon Ball"
+                    "Medium Cannon Ball",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Explosive Barrel",
+                    "Mega Ballista Bolt",
+                    "Grenade",
+                    "Blackjack",
+                    "Crossbow Bolt"
                 ],
                 "MaxQuality": 0.6899999976158142,
                 "MaxQuantity": 4.0,
@@ -2324,6 +3273,282 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Commodore Cursed Bone"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_Ghost_Carraca_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 15.0,
+                "MinQuality": 0.49000000953674316,
+                "MinQuantity": 3.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 4.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 15.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 10.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 4.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Large Cannon Ball",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Mortar Shot",
+                    "Ballista Bolt",
+                    "Medium Cannon Ball",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Explosive Barrel",
+                    "Mega Ballista Bolt"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Ancestor"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 0.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_Ghost_Line_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 10.0,
+                "MinQuality": 0.49000000953674316,
+                "MinQuantity": 5.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 3.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Improved Large Cannon",
+                    "Mortar",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Chasers Cannon",
+                    "Naval Mortar",
+                    "Cannon of the Damned",
+                    "Large Cannon of the Damned",
+                    "Kraken Ballista",
+                    "Triple Chaser Cannon",
+                    "Drowned Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 12.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 8.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 4.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Large Cannon Ball",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Mortar Shot",
+                    "Ballista Bolt",
+                    "Medium Cannon Ball",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Explosive Barrel",
+                    "Mega Ballista Bolt"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Ancestor"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_OffensiveStructures_SchoonerSail_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Ballista Bolt",
+                    "Cannon Bolt",
+                    "Small Cannon Ball"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 2.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
                 "Weight": 1.0
             }
         ],
@@ -2382,6 +3607,91 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_OffensiveStructures_White_Schooner_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned",
+                    "Chasers Cannon",
+                    "Large Cannon of the Damned",
+                    "Improved Large Cannon"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Swivel Gun",
+                    "Improved Ship Cannon",
+                    "Ballista Turret",
+                    "Bombard Cannon",
+                    "Small Cannon",
+                    "Cannon of the Damned",
+                    "Chasers Cannon",
+                    "Large Cannon of the Damned",
+                    "Improved Large Cannon"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Grape Shot",
+                    "Bar Shot",
+                    "Medium Cannon Ball",
+                    "Liquid Flame",
+                    "Ballista Bolt",
+                    "Cannon Bolt",
+                    "Small Cannon Ball",
+                    "Mega Ballista Bolt"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 2.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Skull Navigator Cursed Bone"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_ShipStructures_Brigantine_C": [
             {
                 "ChanceForBlueprint": 1.0,
@@ -2401,12 +3711,25 @@
                     "Large Wood Ship Deck",
                     "Medium Wood Plank",
                     "Large Wood Plank",
-                    "Medium Wood Gunport",
-                    "Large Wood Gunport",
-                    "Wood Ceiling",
-                    "General Tile Module",
-                    "General Rowing Module",
-                    "General Gunport Module"
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Additional Wood Floor",
+                    "Medium Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Massive Klinger Shipyard",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Tier 2 Additional Cargo Saddle",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
                 ],
                 "MaxQuality": 0.6600000262260437,
                 "MaxQuantity": 1.0,
@@ -2434,9 +3757,25 @@
                     "Large Wood Ship Deck",
                     "Medium Wood Plank",
                     "Large Wood Plank",
-                    "Medium Wood Gunport",
-                    "Large Wood Gunport",
-                    "Wood Ceiling"
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Additional Wood Floor",
+                    "Medium Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Massive Klinger Shipyard",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Tier 2 Additional Cargo Saddle",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
                 ],
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 1.0,
@@ -2444,6 +3783,33 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
                 "Weight": 1.0
             }
         ],
@@ -2505,6 +3871,212 @@
                 "Weight": 1.0
             }
         ],
+        "LootItemSet_ShipStructures_Caravela_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Wood Ceiling",
+                    "Munitions storage container",
+                    "Deck Window Frame",
+                    "Small Deck Window Door Frame",
+                    "Deck Window Klinger",
+                    "Klinger Additional Medium Gunport",
+                    "Brazier",
+                    "Small Wood Gunport",
+                    "Small Wood Plank",
+                    "Small Wood Ship Deck"
+                ],
+                "MaxQuality": 0.6600000262260437,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6600000262260437,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Wood Ceiling",
+                    "Munitions storage container",
+                    "Deck Window Frame",
+                    "Small Deck Window Door Frame",
+                    "Deck Window Klinger",
+                    "Klinger Additional Medium Gunport",
+                    "Brazier",
+                    "Small Wood Gunport",
+                    "Small Wood Plank",
+                    "Small Wood Ship Deck"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_Carraca_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Death Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Brazier",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.6600000262260437,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6600000262260437,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Death Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Brazier",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
         "LootItemSet_ShipStructures_Galleon_C": [
             {
                 "ChanceForBlueprint": 1.0,
@@ -2550,6 +4122,304 @@
                     "Medium Wood Gunport",
                     "Large Wood Gunport",
                     "Wood Ceiling"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_GhostCarraca_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Death Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Brazier",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.6600000262260437,
+                "MaxQuantity": 15.0,
+                "MinQuality": 0.46000000834465027,
+                "MinQuantity": 10.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 4.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Death Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Brazier",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 15.0,
+                "MinQuality": 0.49000000953674316,
+                "MinQuantity": 10.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 4.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_Pirate_Galleon_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Gun Mount Base",
+                    "Float Tame Cargo",
+                    "Munitions storage container",
+                    "Vault",
+                    "Additional Ship Wood Wall",
+                    "Carraca Wood Wall",
+                    "Log Wall",
+                    "Tavern",
+                    "Tavern",
+                    "Optimized Bars Wall",
+                    "Bars Door",
+                    "Optimized Bars Ceiling",
+                    "Medium Drawbrige",
+                    "Optimized Paneling Wood Wall (Preview Test)"
+                ],
+                "MaxQuality": 0.6000000238418579,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Large Speed Sail",
+                    "Medium Speed Sail",
+                    "Large Handling Sail",
+                    "Medium Handling Sail",
+                    "Large Weight Sail",
+                    "Medium Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Large Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Large Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Medium Wood Reinforced Plank",
+                    "Medium Reinforced Gunport",
+                    "Klinger Additional Medium Gunport",
+                    "Klinger Additional Large Gunport",
+                    "Additional Small Armored Dock",
+                    "Watch Tower",
+                    "Additional Tame Cargo",
+                    "Gun Mount Base",
+                    "Float Tame Cargo",
+                    "Munitions storage container",
+                    "Vault",
+                    "Additional Ship Wood Wall",
+                    "Carraca Wood Wall",
+                    "Log Wall",
+                    "Tavern",
+                    "Tavern",
+                    "Optimized Bars Wall",
+                    "Bars Door",
+                    "Optimized Bars Ceiling",
+                    "Medium Drawbrige",
+                    "Optimized Paneling Wood Wall (Preview Test)"
+                ],
+                "MaxQuality": 0.6499999761581421,
+                "MaxQuantity": 4.0,
+                "MinQuality": 0.20000000298023224,
+                "MinQuantity": 2.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_SchoonerSail_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Klinger Additional Medium Gunport",
+                    "Additional Ceiling",
+                    "Munitions storage container",
+                    "Additional Wood Door",
+                    "Additional Wood Floor",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Dinghy Sail",
+                    "Ship Sail of the Cursed Figure Head"
+                ],
+                "MaxQuality": 0.6600000262260437,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6600000262260437,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Klinger Additional Medium Gunport",
+                    "Additional Ceiling",
+                    "Munitions storage container",
+                    "Additional Wood Door",
+                    "Additional Wood Floor",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Additional Ship Wood Wall",
+                    "Dinghy Sail",
+                    "Ship Sail of the Cursed Figure Head"
                 ],
                 "MaxQuality": 0.4000000059604645,
                 "MaxQuantity": 1.0,
@@ -2608,6 +4478,341 @@
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
                 "Weight": 1.0
+            }
+        ],
+        "LootItemSet_ShipStructures_White_Schooner_C": [
+            {
+                "ChanceForBlueprint": 1.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Klinger Additional Medium Gunport",
+                    "Additional Small Armored Dock",
+                    "Brazier",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Watch Tower",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.6600000262260437,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6600000262260437,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 0.20000000298023224,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Medium Speed Sail",
+                    "Small Speed Sail",
+                    "Medium Handling Sail",
+                    "Small Handling Sail",
+                    "Medium Weight Sail",
+                    "Small Weight Sail",
+                    "Medium Wood Ship Deck",
+                    "Medium Wood Plank",
+                    "Additional Ceiling",
+                    "Additional Wood Door",
+                    "Additional Wood Pillar",
+                    "Additional Wood Roof",
+                    "Medium Klinger Shipyard",
+                    "Massive Klinger Shipyard",
+                    "Klinger Additional Medium Gunport",
+                    "Additional Small Armored Dock",
+                    "Brazier",
+                    "Additional Tame Cargo",
+                    "Bed Carriage Saddle",
+                    "Pirate Biga",
+                    "Watch Tower",
+                    "Gun Mount Base"
+                ],
+                "MaxQuality": 0.4000000059604645,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.4000000059604645,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Kit Repair Legacy ships"
+                ],
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "MaxQuality": 0.6899999976158142,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.6899999976158142,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.2000000476837158,
+                "Weight": 1.0
+            }
+        ],
+        "LootItemSet_SuperSupreme_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin",
+                    "Mythos",
+                    "AffiniTEA",
+                    "Tame's First Food (fries)",
+                    "Supreme Seafood Delight",
+                    "Toots' Special Brownie"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.30000001192092896
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Crossbow",
+                    "Carbine",
+                    "Supreme Fishing Rod",
+                    "Metal Hatchet",
+                    "Metal Pick",
+                    "Metal Sickle",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Hydra Revolver",
+                    "Supreme Sword of the Damned",
+                    "Pike",
+                    "Spear Launcher",
+                    "Supreme Large Cannon",
+                    "Supreme Ship Cannon",
+                    "Supreme Sword",
+                    "Bow"
+                ],
+                "MaxQuality": 100.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 60.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.30000001192092896
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Carbine",
+                    "Supreme Fishing Rod",
+                    "Hydra Revolver",
+                    "Supreme Sword of the Damned",
+                    "Pike",
+                    "Spear Launcher",
+                    "Supreme Large Cannon",
+                    "Supreme Ship Cannon",
+                    "Supreme Sword",
+                    "Bow"
+                ],
+                "MaxQuality": 100.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 20.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.4000000059604645
+            }
+        ],
+        "LootItemSet_SupremealphaEasier_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin",
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.5
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Crossbow",
+                    "Carbine",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Fishing Rod",
+                    "Supreme Tier 3 Saddle",
+                    "Metal Hatchet",
+                    "Metal Pick",
+                    "Metal Sickle"
+                ],
+                "MaxQuality": 40.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 10.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.10000000149011612
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Hide Boots",
+                    "Hide Gloves",
+                    "Hide Hat",
+                    "Hide Pants",
+                    "Hide Shirt",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Carbine",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Fishing Rod",
+                    "Supreme Tier 3 Saddle"
+                ],
+                "MaxQuality": 40.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 10.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.4000000059604645
+            }
+        ],
+        "LootItemSet_Supremealpha_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin",
+                    "Mythos",
+                    "AffiniTEA",
+                    "Tame's First Food (fries)",
+                    "Supreme Seafood Delight",
+                    "Toots' Special Brownie"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.5
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Plate Boots",
+                    "Plate Gloves",
+                    "Plate Helmet",
+                    "Plate Pants",
+                    "Plate Shirt",
+                    "Crossbow",
+                    "Carbine",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Fishing Rod",
+                    "Supreme Tier 3 Saddle",
+                    "Metal Hatchet",
+                    "Metal Pick",
+                    "Metal Sickle"
+                ],
+                "MaxQuality": 100.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 20.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.20000000298023224
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 1,
+                "Items": [
+                    "Plate Boots",
+                    "Plate Gloves",
+                    "Plate Helmet",
+                    "Plate Pants",
+                    "Plate Shirt",
+                    "Fur Boots",
+                    "Fur Gauntlets",
+                    "Fur Cap",
+                    "Fur Leggings",
+                    "Fur Chestpiece",
+                    "Carbine",
+                    "Supreme Tier 2 Saddle",
+                    "Supreme Fishing Rod",
+                    "Supreme Tier 3 Saddle"
+                ],
+                "MaxQuality": 100.0,
+                "MaxQuantity": 4.0,
+                "MinQuality": 20.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 2.0,
+                "QuantityPower": 1.0,
+                "Weight": 0.30000001192092896
             }
         ],
         "LootItemSet_Survivor_C": null,
@@ -2742,10 +4947,28 @@
                 "Weight": 1.0
             }
         ],
+        "PrimalInventoryBP_AdditionalGenericFishingCatfish_C": null,
+        "PrimalInventoryBP_AdditionalGenericFishingJellyfish_C": null,
+        "PrimalInventoryBP_AdditionalGenericFishingMarlin_C": null,
+        "PrimalInventoryBP_AdditionalGenericFishingSeaBass_C": null,
+        "PrimalInventoryBP_AdditionalGenericFishingTuna_C": null,
+        "PrimalInventoryBP_AdditionalGenericFishing_C": null,
+        "PrimalInventoryBP_AdditionalGenericTigerShark_C": null,
+        "PrimalInventoryBP_AdditionalMeatFishingCatfish_C": null,
+        "PrimalInventoryBP_AdditionalMeatFishingJellyfish_C": null,
+        "PrimalInventoryBP_AdditionalMeatFishingMarlin_C": null,
+        "PrimalInventoryBP_AdditionalMeatFishingSeaBass_C": null,
+        "PrimalInventoryBP_AdditionalMeatFishingTuna_C": null,
+        "PrimalInventoryBP_AdditionalMeatTigerShark_C": null,
+        "PrimalInventoryBP_BaseMeatFishing2_SC_C": null,
+        "PrimalInventoryBP_BaseMeatFishing3_SC_C": null,
         "PrimalInventoryBP_BaseMeatFishing_C": null,
+        "PrimalInventoryBP_BaseMeatFishing_SC_C": null,
         "PrimalInventoryBP_Encampment_Consumables_C": null,
         "PrimalInventoryBP_Encampment_Usables_C": null,
         "PrimalInventoryBP_GenericFishing_C": null,
-        "PrimalSupplyCrateItemSet": null
+        "PrimalInventoryBP_GenericFishing_SC_C": null,
+        "PrimalSupplyCrateItemSet": null,
+        "SuperAlphaLootObject_SC_C": null
     }
 }
